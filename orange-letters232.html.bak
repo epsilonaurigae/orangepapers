@@ -1,0 +1,1557 @@
+<html>
+<head><script type="text/javascript" src="/static/js/analytics.js?v=1500596387.0" charset="utf-8"></script>
+
+<script type="text/javascript">archive_analytics.values.service='wb';archive_analytics.values.server_name='wwwb-app46.us.archive.org';archive_analytics.values.server_ms=537;</script><script type="text/javascript" src="/static/js/wbhack.js?v=1500596387.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('http://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1500596387.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1500596387.0" />
+
+<!-- End Wayback Rewrite JS Include -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="Classification" content="education, health, alcoholism, recovery, addiction, self-help">
+<meta name="Keywords" content="alcoholics, anonymous, Bill Wilson, Alcoholics Anonymous, 12 Steps, addiction">
+<meta name="Description" content="Letters to the author">
+<title>Letters 232</title>
+<script language="JavaScript">
+if (parseInt(navigator.appVersion.substring(0,1))>=3) {
+ // 3.0 or greater.
+orange_on = new Image();
+orange_off = new Image();
+orange_off.src = 'orange_off.gif';
+orange_on.src = 'orange_on.gif';
+}
+function on(image) {
+ if (parseInt(navigator.appVersion.substring(0,1))>=3) {
+ // 3.0 or greater.
+ imagesrc = eval(image + '_on.src');
+ document[image].src = imagesrc;
+ }
+}
+function off(image) {
+ if (parseInt(navigator.appVersion.substring(0,1))>=3) {
+ // 3.0 or greater.
+ imagesrc = eval(image + "_off.src");
+ document[image].src = imagesrc;
+ }
+}
+</script>
+</head>
+<body bgcolor="white" text="#000000" link="#006666" vlink="#00968E" alink="#8000FF">
+<font size="4" base="4">
+<center>
+<table width="93%%" border="0" cellpadding="5" cellspacing="5">
+<tr><td>
+<font size="4" base="4" face="Times,Roman">
+<font size="4" base="4">
+<center>
+<font size="+2"><b>Letters, We Get Mail, CCXXXII</b></font><br>
+</center>
+<p>
+<br>
+<br>
+
+
+Date:  	Sun, April 10, 2011 6:39 pm &nbsp; &nbsp; (answered 14 April 2011)<br>
+From:  	&quot;Taylor W.&quot;<br>
+Subject:  	You did it!<br>
+
+<p>
+Orange,
+
+<p>
+Finally, a message board! You know, in reading through the back letters and
+realizing how long you'd intended for such a thing to exist, I kind of figured it'd
+never happen. I don't mean that critically, it's just that unlike some folks, I am
+not under the impression that the orange-papers represent the sum of your life.
+
+<p>
+I stopped by today to see if there where any new letters, and was amazed to find a
+freakin' forum!  A very nice surprise.
+
+<p>
+I believe this has the potential to add a whole new element to your website, and for
+some fool reason I actually have a lot of hope that things will stay positive on
+there and not devolve into poo flinging.
+
+<p>
+Look forward to seeing you on your new forum,<br>
+Taylor (posting under the handle Carnal)
+
+<p>
+<font color="blue">
+Hello Taylor,
+<p>
+Thanks for the letter. Yes, I've been working on the forum and fighting with the software
+all of this time. The big gotcha was <b><i>no manuals</i></b>. That is, the system I'm using,
+Drupal, is very good free software that is being developed by some bright young whiz kids,
+and maybe a few old gurus too, all over the world.
+They are all having fun creating great new stuff,
+and are very enthusiastic about what is being developed.
+It's quite a large collaborative project. Alas, writing manuals is
+kind of boring, in comparison, so the few manual pages that exist are mostly years out
+of date and describe old obsolete versions of the software.
+Worst yet, some of the manual pages are correct and describe some part of how to do it,
+while other manual pages are all wrong and way obsolete, and you have to figure out
+which is which &#8212; the hard way.
+<p>
+So learning how to make it all work is left as a user exercise. They say, &quot;Drupal has
+a steep learning curve.&quot;
+
+<p>
+And there are all kinds of pitfalls, like a forum package that can be downloaded and
+installed. No! That screws things up royally. It turns out that the new version of the
+software has the forum built in and you don't download anything additional.
+Trying to install the old forum on top of the new forum makes the system crash all
+over the place. The trick is in just turning on the right modules and
+configuring things the right way and then creating a new blank page to start with.
+<p>
+So I spent a lot of time proceeding by trial and error, and screwing it up,
+and erasing it all and reinstalling it again and again, and trying again,
+until I learned how to do it. Once I finally got it all figured out, it took less
+than one day to erase it all again, reinstall and configure it, and bring it up.
+Isn't that typical? More than three months to figure out how to do it, and one day
+to actually do it.
+
+<p>
+So anyway, it's done. And functional.
+<p>
+And there is even more stuff that can be enabled. Right now, I have just the forum
+and blog systems turned on. It is possible to also enable articles and books that
+anybody can write. And RSS feeds can be enabled too.
+I left those features turned off for now because they seemed superfluous
+and would just confuse things and make the system overly complex.
+But I can turn them on if somebody has an irresistable urge to write a book.
+As it is, people can post articles on their own blogs.
+
+<p>
+So enjoy. And have a good day now.
+<p>
+== Orange
+<p>
+Forum:<br>
+
+</font>
+
+<p>
+<font color="blue">
+<pre>
+*             orange@orange-papers.info        *
+*         AA and Recovery Cult Debunking      *
+*          http://www.Orange-Papers.org/      *
+**    April 15 is coming: Pay your taxes so the rich don't have to.
+</pre>
+</font>
+<p><br><br><center><img src="http://orange-papers.info/coloredbar.gif"></center><p><br><br>
+
+
+Date:  	Sun, April 10, 2011 11:29 am &nbsp; &nbsp; (answered 15 April 2011)<br>
+From: S &amp; M<br>
+Subject:  	Thank You!<br>
+
+<p>
+For writing this paper.  For the first time in over 13 years I've read
+the thoughts in my head.
+
+<p>
+I cannot even begin to express how AA/it's 'members' made me feel
+flawed because I WASN'T a lier.  I was honest.  Flawed because I
+didn't relate to the women.  Took a really great therapist, the last 3
+years to learn I'm a freakin' TomBoy!  When the guys talked in
+meetings, I understood their stories, or whatever.  I never got along
+w/the women.  Don't get them.  My husband &amp; I like to hunt and fish.
+
+<p>
+I laughed, I cried.  And I realized that I'm not a fraken alcoholic.
+I drank back then, because someone kidnapped my children for 11
+years.  8 of those 11 I was sober, stayed sober, whatever.  I decided
+to have a beer a few weeks ago, because I wanted to feel better.  My
+husband &amp; I are going thru the murder trial of his sister.  And it's
+been Hell.  We went out that night, I had a couple beers, laughed w/
+the guys, my hubby, was glad we did it.  He's our driver :)
+
+<p>
+But he got clean &amp; sober w/out any 12 step programs.  He just decided
+after a year of daily heroin use &amp; too much drinking that he was
+done.  That was over 8 years ago.  Not that he hasn't been to
+meetings.  I think enough to decide it wasn't for him.  He says,
+because he didn't want to use anymore, and being there, listening to
+the stories, he knew what it was like.  Just made him want to use.  So
+he hung out w/his &quot;normal&quot; friends, how supported him thru the first
+few months of &quot;OMG, what do I do now?&quot;
+
+<p>
+You know what?  He just Quit Using.  No big.
+
+<p>
+So, Thanks!  Big Thanks!  I Knew, Knew there was something off, from
+the moment I walked into those meetings all those years ago.  But,
+they are...so sneaky!  Got me to thinking I was a lot more messed up
+than I was.  Than I am, for crappin' sake!
+
+<p>
+Thank you, really.
+
+<p>
+S &amp; M<br>
+Washington
+
+<p>
+<font color="blue">
+Hello, S &amp; M,
+<p>
+Thank you for the letter. That is very encouraging. I'm glad to hear that you are doing
+well, in spite of your suffering.
+<p>
+So have a good day and a good life now.
+<p>
+== Orange
+</font>
+
+<p>
+<font color="blue">
+<pre>
+*             orange@orange-papers.info        *
+*         AA and Recovery Cult Debunking      *
+*          http://www.Orange-Papers.org/      *
+**     Preserving health by too severe a rule is a worrisome malady.
+**       ==  Fran&ccedil;ois, Duc de La Rochefoucauld (1613 &#8212; 1680)
+</pre>
+</font>
+
+<p><br><br><center><img src="http://orange-papers.info/coloredbar.gif"></center><p><br><br>
+
+<a name="goslings"> </a>
+<center><table width="99%" border="0" cellpadding="20" cellspacing="0">
+<tr><td>
+<font size="4" base="4" face="Times,Roman">
+<font color="blue">
+May 22, 2009, Friday: Day 22, continued:
+<p>
+<center><table width="840" border="0" cellpadding="20" cellspacing="0"><tr><td>
+<font size="4" base="4" face="Times,Roman">
+<font color="blue">
+<center>
+<img src="http://orange-papers.info/P20090522_125-Carmen+Light_colored_one-800.png" border="0" width="800" height="543" alt="Canada Geese goslings"><br>
+Carmen (left) and the light-colored one (right)
+</center>
+
+</font></font></td></tr></table></center>
+</font></font></td></tr></table></center>
+
+<p>
+<font color="#7F0000">
+[More gosling photos below, <a href="orange-letters232.html#goslings2">here</a>.]
+</font>
+
+<p><br><br><center><img src="http://orange-papers.info/coloredbar.gif"></center><p><br><br>
+
+
+
+Date:  	Sun, April 10, 2011 3:29 pm &nbsp; &nbsp; (answered 15 April 2011)<br>
+From:  	&quot;Anonymous&quot; <br>
+Subject:  	NOT going to aa has saved my life and my family!!!<br>
+
+<p>
+This is best piece of work I have read in a long time! I was in the program myself
+for about 5 years. I was always told to go to meetings or more meetings and that
+'it' would get better but I got nothing but worse. I was miserable. I felt like
+using often after meetings and would come home depressed.
+<p>
+...
+<p>
+Taking control of my own life has saved my marriage and my life!
+
+<p>
+BTW I was wondering where all that money was going. I went to one meeting a lot in
+the past. The Regina meeting on Saturdays. It was a speaker meeting in Northern IL.
+150-300 people easy every week. They ask you to contribute at least $2 and sell tons
+of books.
+
+<p>
+Great read. Thanks!
+
+<p>
+<font color="blue">
+Hello Anonymous,
+<p>
+Thanks for the letter and the compliments, and congratulations on your newfound health
+and sanity.
+<p>
+About the money: we were just discussing that. Check out these links:
+
+<ol>
+<p><li>
+<a href="orange-letters229.html#AAWS" target="_blank">The President of A.A. gets $250,000
+per year, and his &quot;Senior Advisor&quot; gets $467,000.</a>
+
+<p><li>
+<a href="orange-letters65.html#AA_financials" target="newwin11">A.A. finances for 2004</a>
+
+<p><li> <a href="orange-letters117.html#Lillianna" target="newwin12">Response to above letter from former A.A. EDP manager Lillianna Murphy: the A.A. headquarters is filing false financial reports with the IRS</a>
+
+<p><li> <a href="orange-letters117.html#money" target="newwin13">more discussion of finances</a>
+
+<p><li>
+<a href="orange-letters122.html#GSO" target="_blank">need info about corporate AA</a>
+
+<p><li>
+<a href="orange-letters113.html#finances" target="_blank">links to A.A. financial reports, here</a>.
+
+</ol>
+
+<p>
+Have a good day, and a good life now.
+<p>
+== Orange
+</font>
+
+<p>
+<font color="blue">
+<pre>
+*             orange@orange-papers.info        *
+*         AA and Recovery Cult Debunking      *
+*          http://www.Orange-Papers.org/      *
+**    It's the American Work Ethic &#8212; work real hard for a long time,
+**    and you'll get screwed (when the company offloads your pension
+**    plan to the Federal government and some CEO takes the big money
+**    home in bonuses, stock options, and a golden parachute).
+</pre>
+</font>
+
+<p><br><br><center><img src="http://orange-papers.info/coloredbar.gif"></center><p><br><br>
+
+
+Date:  	Mon, April 11, 2011 1:02 pm &nbsp; &nbsp; (answered 15 April 2011)<br>
+From:  	&quot;Foggy&quot;<br>
+Subject:  	Re: Hi Terrance<br>
+
+<p>
+SO SORRY for my incompetence, but I just tried to sign in using my user name and
+it's not working.  Don't trouble yourself, I'll just keep reading your letters
+section as you post them.  What I wanted to expound upon was that I tried to
+tell one of the women about ANOTHER stalking incident which happened last year
+while I was gardening in my own front yard. I haven't been to A.A. since before
+the incident, but since she always begins her shares with &quot;It's a BIG DEAL if
+you haven't taken a drink today,&quot; followed by the regular reciting of slogans.
+<p>
+Anyway, I perceived her as someone I could talk to because I am still mad about
+the guy on the Harley that stopped by my house because he noticed me gardening
+in my yard.  So we started talking in my front yard and he said, &quot;hey, I'll be
+right back,&quot; and I went back to my gardening.   Well, he came back alright with
+some cookies he had baked.  (This guy is so proud because he's been 20 plus
+years sober).  Well, while I was pulling weeds, he somehow found it necessary to
+inform me that when he was 17 (he's 60 something now), that in a rage he had
+beaten his father to a pulp which set off a heart attack and his death.  I did
+not want to hear this, I never invited him to my house, and now I was scared of
+him.
+<p>
+  Well, the next morning I didn't have anything in the kitchen for
+breakfast, but there on my coffee table were the cookies.  I wolfed 2 down with
+a glass of milk, and the next thing I remember is waking up the next day after
+collapsing between my living room and bedroom, a day gone past with no memory of
+nothing.  Well, then started the text calls on my cell phone.  Saying things
+like, I'll pick you up on the back of my Harley and take you to the noon
+meeting;  Even though I had told him I was THROUGH with A.A., he still wanted to
+be my friend; anyway at least 6 messages a day!  After 4 days of this I went
+straight to the cell phone company, asked them to text a message that said:  I
+have no interest in keeping in touch with you or ever seeing you again.  Then I
+immediately changed by cell phone number.  I haven't heard from him since, but I
+somehow thought this lady would back me up.  Her answer to me was that I was
+playing the victim.
+
+<p>
+<font color="blue">
+Hello Foggy,
+<p>
+Isn't that so classic? Her claiming that you are playing the victim.
+That is standard cultish &quot;You are always wrong.&quot;
+No matter what happens, it's your fault and you are always wrong.
+That is
+<a href="orange-cult_q0.html#cq_you_wrong" target="_blank">standard Cult Characteristic Number Two</a>.
+(Number One being:
+<a href="orange-cult_q0.html#cq_guru_right" target="_blank">The Guru Is Always Right</a>.)
+<p>
+It's really a shame how cults mess with people's minds until they can't even feel
+any sympathy or empathy for other people who are having troubles, and have to just
+respond with a stupid slogan.
+<p>
+About not being able to log in, I'm not sure what the problem is. Please check the obvious
+things like having the caps lock on while typing the password. The usual routine is that
+the system emails your first password to your email address, and then you can log in with
+that, and then change the password to something that you like.
+It is working for other people, so I'd just try again.
+<p>
+Have a good day now.
+<p>
+== Orange
+</font>
+
+<p>
+<font color="blue">
+<pre>
+*             orange@orange-papers.info        *
+*         AA and Recovery Cult Debunking      *
+*          http://www.Orange-Papers.org/      *
+**     She will be more fresh MEAT for the 12-Step MEATing room.
+</pre>
+</font>
+
+<p><br><br><center><img src="http://orange-papers.info/coloredbar.gif"></center><p><br><br>
+
+
+Date:  	Mon, April 11, 2011 2:23 pm &nbsp; &nbsp; (answered 15 April 2011)<br>
+From:  	&quot;Isabel T. M.&quot;<br>
+Subject:  	I liked to...<br>
+
+<p>
+Hi,
+
+<p>
+I belong to AA since 1988. I have many reasons  to be grateful for the fellowship,
+but I also agree with some of the comments you do on your web page, however, I would
+like to understand in a nutshell what are the purposes of your pages, and where are
+your reasoning heading? what is the point? I see you are aimed at deconstructing
+some of the AA myths, and ... I would like to learn about more options, and whether
+you feel that you can offer one. Help me guide my search on this matter. Thanks!
+
+<p>
+This is the page I visited
+
+<p>
+<a href="http://www.orange-papers.info/orange-funny_spirituality.html" target="_blank">
+http://www.orange-papers.info/orange-funny_spirituality.html</a>
+
+<p>
+Isabel T. M-A., Ph.D.<br>
+Research Assistant Professor, SRI-CSW
+
+<p>
+<font color="blue">
+Hello Isabel,
+<p>
+Thanks for the letter and the questions.
+<p>
+I am opposed to Alcoholics Anonymous and its sister 12-Step cults because it does more
+harm than good. A.A. just <p>
+<ul>
+<li> <a href="orange-effectiveness.html#Brandsma" target="newwin21">raises the rate of binge drinking</a>,
+<li> <a href="orange-effectiveness.html#Ditman" target="newwin22">raises the rate of rearrests</a>,
+<li> <a href="orange-effectiveness.html#Walsh" target="newwin23">increases the costs of hospitalization</a>, and
+<li> <a href="orange-effectiveness.html#Vaillant_deaths" target="newwin24">raises the death rate in alcoholics</a>.
+</ul>
+<p>
+The complete failure of A.A. to help alcoholics, while raising the death rate,
+was actually proven by
+<a href="orange-effectiveness.html#Vaillant" target="_blank">Dr. George E. Vaillant</a>, who went on to be a Professor of Psychology
+at Harvard University, and a member of the Board of Trustees of Alcoholics Anonymous.
+<p>
+So why bother? Why not just shut A.A. down and replace it with something that does less harm?
+
+<p>
+We do talk about what works better and what does less harm. See this letter, which contains
+links to many discussions of what works:
+<a href="orange-letters191.html#what_works" target="_blank">How did you get to where you are?</a>
+
+<p>
+Have a good day now.
+<p>
+== Orange
+</font>
+
+<p>
+<font color="blue">
+<pre>
+*             orange@orange-papers.info        *
+*         AA and Recovery Cult Debunking      *
+*          http://www.Orange-Papers.org/      *
+**  &quot;Not only had we failed to alter the natural history of alcoholism,
+**  but our death rate of three percent a year was appalling.&quot;
+**  == Dr. George E. Vaillant, formerly a member of the A.A. Board of
+**  Trustees, describing the treatment of alcoholism with Alcoholics
+**  Anonymous, in &quot;The Natural History of Alcoholism: Causes, Patterns,
+**  and Paths to Recovery&quot;, Harvard University Press, Cambridge, MA,
+**  1983, pages 283-286.
+</pre>
+</font>
+<p><br><br><center><img src="http://orange-papers.info/coloredbar.gif"></center><p><br><br>
+
+
+Date:  	Tue, April 12, 2011 8:32 am &nbsp; &nbsp; (answered 15 April 2011)<br>
+From:  	&quot;Billy k.&quot;<br>
+Subject:  	orange-papers.com?<br>
+
+<p>
+Hello Orange,
+<p>
+It's good work you do. It's helped me de-program
+myself and take back my life. So when given the opportunity to help another
+recently, and after telling them to check out the orange papers I was very
+surprised when my friend came back to me with a strange look on his face
+saying &quot;is this some kind of  joke&quot;. Long story short there's a pro AA site
+called orange-papers.com. You seem pretty &quot;on to it' so you probably already
+know, but just in case I thought it better to say than not. Don' even know
+if anything could be done about it anywho. K. Peace
+
+<p>
+sincerely
+
+<p>
+jc
+
+<p>
+<font color="blue">
+Hello JC,
+<p>
+Thanks for the note and the compliments. Yes, I know about the name thief
+&quot;orange-papers.com&quot;.  A few years ago,
+<a href="orange-letters125.html#domain" target="_blank">one of those domain-name
+ hijackers-merchants got ahold of that name</a>
+and wanted to sell it to me for $100. I refused, so it went to somebody
+who thought it funny to do a pro-A.A. web site with that name.
+Fortunately, Google still routes all of the traffic to my web site.
+<p>
+Have a good day now.
+<p>
+== Orange
+</font>
+
+<p>
+<font color="blue">
+<pre>
+*             orange@orange-papers.info        *
+*         AA and Recovery Cult Debunking      *
+*          http://www.Orange-Papers.org/      *
+**     Hypocrisy is the homage that vice pays to virtue.
+**       == Fran&ccedil;ois, Duc de la Rochefoucauld [1613&#8212;1680], <i>Maxim 218</i>
+</pre>
+</font>
+
+<p>
+<font color="#9F0000">
+UPDATE: July 2013: I just waited a few years, and the owner of the domain name got
+tired of it and didn't update the web site, and then eventually just forgot about it, and
+abandoned the site and the name. I waited until the registration expired, then I got it for $10
+by just registering the name. I also got orange-papers.net and orangepapers.net for good measure.
+That just prevents spoofers from doing copy-cat web sites.  
+</font>
+
+
+<p>
+<font color="#9F0000">
+UPDATE: 2014.08.03:  I also registered all of the other similar
+domain names that I could get, to prevent another copycat.
+So now these all go to the orange-papers.info web site:
+<ul>
+<li> orange-papers.info
+<li> orange-papers.com
+<li> orange-papers.net
+<li> orangepapers.net
+<li> orange-paper.com<br>
+<li> orange-paper.net<br>
+<li> orange-paper.org<br>
+<li> orangepaper.net<br>
+<li> orangepaper.org<br>
+</ul> 
+</font>
+
+
+
+
+<p><br><br><center><img src="http://orange-papers.info/coloredbar.gif"></center><p><br><br>
+
+
+Date:  	Tue, April 12, 2011 8:40 am &nbsp; &nbsp; (answered 15 April 2011)<br>
+From:  	&quot;dave f.&quot;<br>
+Subject:  	aa as a cult<br>
+
+<p>
+Are you a former member of AA?
+
+<p>
+<font color="blue">
+Hello Dave,
+<p>
+That depends on your definition of &quot;member&quot;. The common saying is that somebody is
+a member when he says that he is a member. In that case, I was never a member, because
+I never bought into the nonsense.
+I went to a zillion meetings and listened to a bunch of insane stuff, but I never
+had a sponsor, and I never worked the Steps, and I never drank the koolaid.
+
+<p>
+Have a good day now.
+<p>
+== Orange
+</font>
+<p>
+
+<p>
+<font color="blue">
+<pre>
+*             orange@orange-papers.info        *
+*         AA and Recovery Cult Debunking      *
+*          http://www.Orange-Papers.org/      *
+**    And the believers said, &quot;If you want what we
+**    have, and are willing to go to any length to
+**    get it, then, here, drink this koolaid.&quot;
+</pre>
+</font>
+
+<p><br><br><center><img src="http://orange-papers.info/coloredbar.gif"></center><p><br><br>
+
+
+Date:  	Tue, April 12, 2011 7:13 pm &nbsp; &nbsp; (answered 15 April 2011)<br>
+From:  	&quot;Ted B.&quot;<br>
+Subject:  	cognitive dissonance<br>
+
+<p>
+hi orange.
+<p>
+ i've recently moved into a &quot;clean and sober&quot; house that mandates AA.
+I do feel cognitive dissonance but i fight it. the way i look at it since Aa is
+not being honest with me turnabout is fair play. i really just did not want to
+live in the homeless shelter i was in before... disgusting living
+conditions... it's not all that sanitary here either but i have a bed instead of
+a mat on the floor and the bathroom isnt as disgusting. i notice in meetings
+just about all the speakers say something like &quot;i hated this AA stuff at first,
+i didnt want to hear anything 'u people' had to say... but then something changed
+i dont know why, and i decided to do what was suggested.&quot; I think all these
+speakers (true believers) were solving their cognitive dissonance by eventually
+believing what they were told.
+<p>
+As always thank you for the truth.
+
+<p>
+<font color="blue">
+Hello Ted,
+<p>
+Thanks for the letter, and I hope you are doing well. I remember my days in a homeless
+shelter. Not fun, but it got me out of the rain and provided a path to something better.
+
+<p>
+Yes, they can be solving their <i>cognitive dissonance</i>
+conflicts by conforming to the group. I think a lot of them do that.
+Just surrender and conform to the cult and pretend that everything is okay.
+<p>
+But I also wonder
+whether it is also just a standard A.A. sales pitch. That &quot;I hated A.A. at first but then
+I saw the light&quot; rap is just such common approved A.A.-jabber, okay for any meeting.
+Even if somebody actually loved A.A. at first sight, he can still gather brownie points by
+delivering the standard sales pitches at meetings, and bragging about how he got
+converted into a true believer.
+Some people will even claim that they had a &quot;spiritual awakening&quot;.
+<p>
+And I am reminded of what Andrew Meacham called
+&quot;<a href="orange-cult_a7.html#reverse_denial" target="_blank"><i>reverse denial</i></a>&quot;.
+He found himself making huge sweeping generalizations like &quot;before
+I got into the program all I did was drink.&quot;
+He delivered the standard approved-of rap,
+just as everybody else at the meeting expected him to, but then he realized
+that it was not true at all. He had a full life besides drinking, and had a job and
+a career, and did many things besides drink.
+But by confessing to every imaginable alcoholic sin and fault, and exaggerating how bad it was
+before A.A., he was proving that he was not
+&quot;in denial&quot;. Hence, &quot;reverse denial&quot;.
+
+<p>
+Have a good day now, and good luck.
+<p>
+== Orange
+</font>
+
+<p>
+<font color="blue">
+<pre>
+*             orange@orange-papers.info        *
+*         AA and Recovery Cult Debunking      *
+*          http://www.Orange-Papers.org/      *
+**     Get a sponsor and have a crazy loser running your life for you.
+</pre>
+</font>
+<p><br><br><center><img src="http://orange-papers.info/coloredbar.gif"></center><p><br><br>
+
+
+Date:  	Wed, April 13, 2011 11:13 am &nbsp; &nbsp; (answered 15 April 2011)<br>
+From:  	&quot;B B&quot;<br>
+Subjec:  	Thank you<br>
+
+<p>
+Mr. Orange,
+
+<p>
+I just read your
+<a href="orange-spirrel.html" target="_blank"><i>It's Spiritual, Not Religious</i></a>
+article.  I've been attending AA/NA
+for 5 years now and have always known something was amiss with AA/NA.  I've always
+wondered why the AA/NA old-timers and fanatics seemed so angry &#8212; always ready to
+critique someone else's sobriety.  You've done a lot here to explain it.  Your
+website is a great resource for those of us who refuse to drink the kool-aid.
+
+<p>
+Thanks,
+
+<p>
+Bill B.
+
+<p>
+P.S.  I've been clean and sober for 5 years now in spite of AA/NA.
+
+<p>
+<font color="blue">
+Hello Bill,
+<p>
+Thanks for the note and the compliments. I'm glad to hear that you are doing well.
+Congratulations on your sobriety.
+
+<p>
+About the anger thing, I am reminded of
+<a href="orange-letters.html#angry" target="_blank">one of the earliest letters that I got</a>,
+about 10 years ago, where an old veteran A.A. member wrote:
+<p>
+<blockquote>
+<font color="black" face="Lucida,Utopia bold,Utopia,Helvetica,Charter,Arial,sans-serif,Sans Serif,New Century Schoolbook">
+I have also noted how angry so many of the &quot;old timers&quot; are. I have
+observed that closely and concluded for myself that the problem is
+that most people have a lot of grief in their lives and in a way, AA
+is always focusing on losses. At the same time there is nowhere to
+go with grief as it isn't allowed. So the sadness gets stuffed
+leaving only the anger to be dumped out in the meeting, usually aimed
+at someone who isn't getting the program or was foolish enough to
+tell the truth about their selfish life. Notice that sometime. Old
+timers in AA are often an angry lot: a mask of serenity with a
+seething cauldron underneath.<br>
+==  Bernie
+</font>
+</blockquote>
+
+<p>
+So have a good day and a good life now.
+<p>
+== Orange
+</font>
+
+<p>
+<font color="blue">
+<pre>
+*             orange@orange-papers.info        *
+*         AA and Recovery Cult Debunking      *
+*          http://www.Orange-Papers.org/      *
+**     Any fool can make a rule,
+**     And every fool will mind it.
+**       ==  Henry David Thoreau, <i>Journal</i>, Feb. 3, 1860
+</pre>
+</font>
+<p><br><br><center><img src="http://orange-papers.info/coloredbar.gif"></center><p><br><br>
+
+
+<a name="Rajiv"> </a>
+Date:  	Wed, April 13, 2011 4:44 pm &nbsp; &nbsp; (answered 15 April 2011)<br>
+From:  	&quot;Rajiv B.&quot;<br>
+Subject:  	Peace<br>
+
+<p>
+<a href="orange-letters231.html#Renee" target="_blank">In your letters-231</a>
+ I read:
+
+<p>
+<blockquote>
+<font color="black" face="Lucida,Utopia bold,Utopia,Helvetica,Charter,Arial,sans-serif,Sans Serif,New Century Schoolbook">
+Mike's recent letter to you caught my eye....<br>
+<a href="orange-letters227.html#cut_off" target="_blank">
+http://orange-papers.info/orange-letters227.html#cut_off</a>
+
+<p>
+
+<blockquote>
+<font color="black" face="Lucida,Utopia bold,Utopia,Helvetica,Charter,Arial,sans-serif,Sans Serif,New Century Schoolbook">
+&quot;I am still struggling to deprogram myself and would love some tips. The
+fear that is planted that I will die if I leave AA or drink again is very
+strong. Also should I cut off all ties with even people I liked?&quot;
+<br>
+</font>
+</blockquote>
+
+</font>
+</blockquote>
+
+<p>
+Please tell him that the Big Book clearly states that while helping a
+newcomer or a suffering alcoholic, &quot;Burn the idea into the consciousness of
+every man that he can get well regardless of anyone.&quot; (Chap. 'Working With
+Others' pg.98). And as far as cutting off all ties, I still go and meet my
+NA/AA friends at the coffee-shop hangouts, off and on.
+
+<p>
+Also you had said that NY Times had reported that the addiction is a $20
+billion industry. But by not allowing addicts and alcoholics to recover &#8212; by
+promoting AA/NA &#8212; the US Government is seeing to it that the addiction
+problem remains, so that it can justify its spending half a trillion dollars
+each year on fighting addiction. Here's a CASA Report on it:<br>
+
+<a href="http://web.archive.org/web/20160321122055/http://www.drugfree.org/join-together/addiction/new-casa-report-finds" target="_blank">
+http://www.drugfree.org/join-together/addiction/new-casa-report-finds</a>
+
+<p>
+This means that the US citizens, mainly the addiction treatment,
+pharmaceuticals and addiction fighting industry, are making half a trillion
+each year because addicts remain addicts. If addicts start recovering, the
+government would not spend that much. This shows that the US Government is
+giving, and its citizens are getting, a hugs incentive to see to it that we
+addicts do not recover. It is no wonder that people are down-playing your
+site, and all the research findings that will help addicts recover.
+
+<p>
+But they can't fool the people for long. The time has come that soon AA and
+its 12 Step God crap will definitely be exposed. The time for the revival of
+the counterculture, the New Left movement of our sixties is here. This is
+the dawing of the age of Aquarius.
+
+<p>
+Peace,
+
+<p>
+Rajiv E. B.<br>
+Former Regional Delegate, RD (representative) India NA Region
+
+<p>
+&quot;To Awaken is to see and understand. (period)&quot; &#8212; Anthony de Mello S.J.
+
+<p>
+<font color="blue">
+Hello Rajiv,
+<p>
+Thanks for the letter. I quite agree, except for one tiny thing: You talk about how
+U.S. &quot;citizens&quot; are getting billions of dollars from treating addicts. I'd change that
+word to &quot;corporations&quot;. The flow of money is actually from the citizens (like addicts and
+their families, and taxpayers) and to the corporations that sell quack treatment
+and then bribe Congressmen and Senators to keep the system the same.
+The corporations have even gotten another law passed recently,
+to get more money for the quacks &#8212; the Paul Wellstone Act &#8212;
+which dictates that mentally-ill people will get more money for &quot;treatment&quot;.
+I'm all for giving more good medical treatment to mentally-ill
+people, but somehow that is getting twisted into supporting con artists who
+sell an old pro-Nazi cult religion as a cure for addictions.
+<p>
+And yes, the taxpayers &#8212; the citizens &#8212; pay for a lot of it.
+<a href="orange-intro.html" target="_blank">The treatment center that I went to</a>
+got money from city, state, and Federal funds. That's three different
+ways of getting money from the citizens. And it was a total waste of money.
+A cocaine-snorting child pornographer and child molester lectured us
+with 12-Step slogans and told us to go to at least three A.A. or N.A.
+meetings per week and get a sponsor. It's hard to believe that the Oregon
+Health Plan paid $1700 per person for that &quot;treatment&quot;, but they did.
+<p>
+In addition, the treatment centers get a lot of money from health insurance too.
+But that is just another channel through which money flows from the citizens to
+the corporations.
+Some people's monthly payments end up going to a treatment center to pay for somebody
+else's &quot;treatment&quot;.
+I really don't know why the health insurance companies continue
+to pay for 12-Step &quot;treatment&quot;. They are so quick to deny people coverage for
+other things, and their death panels decide which children won't be getting
+their life-saving operations, and yet they continue to pay for 12-Step quackery.
+Strange, very strange.
+
+<p>
+Thanks for the link to that article. That is really impressive. So the $20 billion that
+is spent on treatment centers and rehab centers is only the tip of the iceberg, huh?
+I can believe it.
+<p>
+I am reminded of a doctor in upper New York State who, more than 40 years ago, did some
+research on causes of deaths. It started when he noticed that a death certificate said
+something like,
+&quot;Death due to complications from renal failure.&quot;  The doctor knew that the patient actually
+drank himself to death. This doctor asked the attending physician about it. The other
+doctor replied, &quot;Yes, I know that he really died from alcohol abuse, but the newspaper
+prints the cause of death in the obituaries, and the family has suffered enough already,
+and we don't want to increase their anguish by publishing that. So we put down something
+innocent-sounding.&quot;
+<p>
+The first doctor responded, &quot;But that messes up the statistics that go to the Department
+of Health. Their count of deaths caused by alcohol abuse will be inaccurate.&quot;
+The other doctor just shrugged it off.
+<p>
+This doctor went on to discover that most of the deaths from alcohol abuse, drug addiction,
+and even cigarette smoking were masked by writing such euphemisms on the death certificates.
+So he spend about 20 years studying a huge number of deaths in a 3-county area, comparing
+what was written on the death certificate to what the real cause of death was, and he
+discovered that deaths from alcohol, tobacco, and drugs was the leading cause of death.
+Not heart attacks or cancer or obesity or any of the popular diseases. Drugs and alcohol,
+including tobacco.
+<p>
+Again, it's a &quot;tip of the iceberg&quot; thing. The real damage done is immense.
+
+<p>
+By the way, I'm not opposed to religious programs &#8212;
+&quot;the God stuff&quot; &#8212; if that is what people want.
+I can see situations in which some people might derive some comfort from a good religious
+program &#8212; as long as it is really voluntary and does not conflict with the beliefs 
+that the sick people already hold.
+<p>
+But what is being dispensed now is way over the edge &#8212; getting people to
+do
+<a href="orange-rroot060.html" target="_blank">the practices of an old cult religion</a>
+whose leader declared,
+<a href="orange-rroot240.html#interview1" target="_blank">
+&quot;I thank heaven for a man like Adolf Hitler...&quot;</a>
+I like your phrase, &quot;12 Step God crap&quot;. That sounds fitting.
+
+<p>
+Oh well, have a good day now.
+<p>
+== Orange
+</font>
+
+<p>
+<font color="blue">
+<pre>
+*             orange@orange-papers.info        *
+*         AA and Recovery Cult Debunking      *
+*          http://www.Orange-Papers.org/      *
+**    Heroes have gone out, quacks have come in; the reign of quacks
+**    has not ended with the nineteenth century. The sceptre is held
+**    with a firmer grasp; the empire has a wider boundary. We are
+**    all the slaves of quackery in one shape or another. One portion
+**    of our being is always playing the successful quack to the other.
+**       ==  Thomas Carlyle (1795&#8212;1881), English essayist,
+**              historian, biographer, and philosopher
+</pre>
+</font>
+
+<p><br><br><center><img src="http://orange-papers.info/coloredbar.gif"></center><p><br><br>
+
+<a name="goslings2"> </a>
+<center><table width="99%" border="0" cellpadding="20" cellspacing="0">
+<tr><td>
+<font size="4" base="4" face="Times,Roman">
+<font color="blue">
+May 22, 2009, Friday: Day 22, continued:
+<p>
+<center><table width="840" border="0" cellpadding="20" cellspacing="0"><tr><td>
+<font size="4" base="4" face="Times,Roman">
+<font color="blue">
+<center>
+<img src="http://orange-papers.info/P20090522_127-Light_colored_one-800.png" border="0" width="800" height="862" alt="Canada Goose gosling, the light-colored one"><br>
+Carmen's brother, the light-colored one
+</center>
+</font></font></td></tr></table></center>
+</font></font></td></tr></table></center>
+
+<p>
+<font color="#7F0000">
+[The story of Carmen continues <a href="orange-letters233.html#goslings">here</a>.]
+</font>
+
+<p><br><br><center><img src="http://orange-papers.info/coloredbar.gif"></center><p><br><br>
+
+<a name="Gordon"> </a>
+Date:  	Sat, April 16, 2011 7:08 am &nbsp; &nbsp; (answered 20 April 2011)<br>
+From:  	&quot;Gordon B.&quot;<br>
+Subject:  	The effectivness of AA.<br>
+
+<p>
+Hello again Terrance, greetings from your friends in Scotland. We were
+chatting the other night and we are struggling with the assertion that
+AA doesn't work. We all agree that since reading the Orange Papers we
+have had a 'psychic shift'  for the better, ie freedom from cultish
+thinking (and still staying sober!). We also agree that when we first
+went to AA we had quite a profound 'psychic shift' freeing us from
+booze. We were pretty well at death's door and sobriety brought a huge
+benefit to all those around us as well.
+
+<p>
+What did we get at AA? Well basically group therapy, which applies to
+all x anonymous groups.
+<ul>
+<p><li>
+1. 'You are no longer alone' &#8212; revealing and comforting, as we really
+believed we were the only person in the world with this hellish experience.
+<p><li>
+2. 'The power of example' &#8212; Hearing people who were worse than we were
+giving the motivation &#8212; 'I can do it, so can you'; also meeting an old
+drinking buddy or the well known town certre drunk.
+<p><li>
+3. Time motivation &#8212; 'a day at a time'; 'give it 90 days' and then go
+for the accolade of a ' 1st birthday'. (we don't have coins over here,
+just a big fuss and great status depending on how many years sobriety)
+<p><li>
+4. Deterrence &#8212; We had all tried to stay sober on our own but, after we
+squared up physically, the thoughts, 'I wasn't that bad really', 'this
+time will be different', etc had blown it. Regularly attending AA kept
+reminding us just how bad it was.
+<p><li>
+5. Practically &#8212; having a place to go 7 nights a week that wasn't a pub,
+club or a wet place.
+<p><li>
+6. A chance to stay in sober company &#8212; most of us had never known sober
+company for years, sometimes not since school.
+<p><li>
+7. A chance to make a good friend or two in that sober company &#8212; we had
+had a few good friends but they were usually drinkers.
+<p><li>
+8. Hope &#8212; This is the strongest memory from our first days and weeks in
+AA, changing from utter hopelessness to seeing a light at the end of the
+tunnel.
+</ul>
+
+<p>
+These 8 items have little to do with AA, */just plain group therapy/*,
+but then along came the cultish stuff. Now I have to tell you that some
+of us have attended AA in the USA and there is qute a difference in
+cultishness from here; on a scale of 1 to 10, the USA would be 9 and
+Scotland would be 4; yes, we do have slogans, steps, zealots, sponsors,
+big book and hazelden but they are background. The 'program' of recovery
+is still very much
+<a href="orange-letters20.html#Gordon" target="_blank">the 12 suggestions I sent you in letters 20</a>.
+Also nobody here is 'sentenced' to AA by any State agency or court.
+
+<p>
+Anyway &#8212; statistics &#8212; darn difficult to get and interpret. Ideally we
+would look at a population *without AA* and note the alcohol-related
+death rate over say a decade. Then we would *introduce AA* to that
+population and repeat. /Our hunch is that the death rate would drop/ &#8212; 
+let me explain.
+<p>
+The spontaneous remission rate for alcoholics is 5%; the 'success' rate
+for AA is 5%, no better than doing nothing at all. This is only true
+*/if the spontaneous remission people disappear/* and that is our
+problem, /*they are still around*/. We all know family, friends,
+colleagues and aquaintances who had a drink problem and quit on their
+own when things got tough; I know a dozen. Now these people seem to be
+different from most AA members in that they quit when things got tough,
+but /at an earlier stage in the progression of alcoholism/, the
+implication is that a lot AA members were not about to quit but would
+have gone on to die.
+
+<p>
+AA has these conventions over here where hundreds of members meet, looks
+impressive. Now, our hunch is that, if it were possible to organise a
+convention for alcoholics who quit on their own, hundreds would also meet.
+Here's the big one &#8212; If we could organise a convention for people who
+came to AA, quit booze and stayed sober /but don't go to meetings/,
+*/thousands/* would meet. These are the people whose lives were
+transformed by *the group therapy  *but after a short time thought the
+meetings and the cultishness were crap. I attended meetings here for 25
+years before discovering agent orange. In that time hundreds joined
+AA, were group members for months, even a year or two, and then
+disappeared. But I still meet many of them regularly in the town. They
+are still sober and well and think AA was great but not the meetings.
+/So these people are the difficult statistic when analysing AA's
+effectiveness./
+
+<p>
+Now, does AA kill anybody, you bet it does, nearly killed me. Anyone of
+a religious bent might favour the 12 steps and take 'God' into their
+lives; 'I can do it, so can you' and the 'status' of sober time are
+*appeals to ego * &#8212; */all very dangerous if you drink again/*. Lift a
+drink &#8212; leads to another &#8212; and another &#8212; wake up with a hangover. But
+after AA you now also have a crushing loss of self esteem, 'he could do
+it, I can't'; a horrific sense of failure, 'I have thrown away x time
+sober, I have lost all prestige, I would have to start again'; and an
+utter feeling of hopelessness now that even 'God' has deserted you.
+These thoughts lead to 'in for a penny, in for a pound', 'may as well be
+hung for a sheep as a lamb' and off you go on a binge bender or suicide.
+If you get back to AA it is with great cringe, shame and inferiority
+and you are treated as a newcomer. I have been to 11 funerals in the
+last 32 years where AA was certainly the killer.
+
+<p>
+So AA is effective but don't drink again &#8212; let me know your thoughts,
+we're on your side.
+
+<p>
+_Footnote_<br>
+The AA Preamble:-<br>
+<p>
+<blockquote>
+<font color="black" face="Lucida,Utopia bold,Utopia,Helvetica,Charter,Arial,sans-serif,Sans Serif,New Century Schoolbook">
+
+&quot;Alcoholics Anonymous is a fellowship of men and women who share their
+experience, strength and hope with each other that they may solve their
+common problem and help others to recover from alcoholism.
+The only requirement for membership is a desire to stop drinking. There
+are no dues or fees for AA membership; we are self-supporting through
+our own contributions. AA is not allied with any sect, denomination,
+politics, organization; does not wish to engage in any controversy;
+neither endorses nor opposes any causes. Our primary purpose is to stay
+sober and help other alcoholics to achieve sobriety&quot;
+<br>
+</font>
+</blockquote>
+<p>
+All AA members in Scotland know that off by heart because it is the
+mandatory opening reading &#8212; not the chapter 5 'how it works' tosh and
+lies. It is rather a good constitution; I would add 3 amendments to
+that:- Scrap the 'status' for time sober, 'one day at a time' for all;
+Don't say, &quot;I can do it, so can you&quot;;   Stress that some members do
+drink again, it's not the end of the world, and are welcome back as equals.
+This would be an effective fellowship that wouldn't kill anybody.
+AA has been taken over by a minority, the 'sponsors', the zealots with
+their pseudo-religious trash &#8212; the majority of the members don't want
+that but are too timid to do anything. As I said, we minimize it here in
+Scotland, but AA needs a fundamentalist revolution from within, junk the
+cult, the money, the hierarchy and get back to basics!
+
+<p>
+Very best regards, Gordon
+
+<p>
+
+<p>
+<font color="blue">
+Hi again, Gordon,
+<p>
+Thanks for the letter.
+You make a bunch of interesting points.
+<p>
+I don't understand what you mean by this statement:
+<p>
+<blockquote>
+<font color="black" face="Lucida,Utopia bold,Utopia,Helvetica,Charter,Arial,sans-serif,Sans Serif,New Century Schoolbook">
+
+The spontaneous remission rate for alcoholics is 5%; the 'success' rate
+for AA is 5%, no better than doing nothing at all. This is only true
+*/if the spontaneous remission people disappear/* and that is our
+problem, /*they are still around*/.
+
+<br>
+</font>
+</blockquote>
+<p>
+The way I see it, the A.A. success rate above spontaneous remission is still zero,
+ no matter whether the spontaneous remission
+people stay around or leave. The ones who hang around for a few years create the optical illusion
+that A.A. works, but it's just an illusion.
+ And most of them do leave, eventually.
+<a href="orange-letters62.html#coins" target="_blank">The declining coin rates</a>
+show that almost nobody, only one in a thousand, stays around for 20 years to become
+a revered old-timer.
+
+<p>
+About A.A. lowering the death rate:
+<a href="orange-effectiveness.html#Vaillant" target="_blank">The one time that somebody did a controlled study</a>
+that counted the deaths, A.A. produced the highest death rate of any of the alcoholism treatments that
+he studied. That was, of course, Dr. George E. Vaillant, who was so in love with A.A.
+that he went on to become a member of the Board of Trustees of Alcoholics Anonymous.
+He wasn't too happy with the A.A. death rate, but he somehow managed to shrug it off and recommend
+A.A. anyway.
+
+<p>
+Yes, you would think that having an A.A. group of supportive people around an alcoholic,
+encouraging him to stay sober, would have a big beneficial effect, but it doesn't.
+Like you, I guess that the negative effects of the crazy cult dogma outweigh any positive effects.
+Too many condescending put-downs, and too much irrational nonsense and wrong information, and
+<a href="orange-effectiveness.html#Brandsma" target="_blank">too much self-flaggelation result in increased binge drinking</a>
+and increased suicides.
+<p>
+I have often thought about some kind of beneficial sobriety cult, something that would use the
+mindless enthusiasm and <i>esprit de corps</i> of A.A., but without the really bad stuff, to encourage
+people to get sober. But cults just seem to be poisonous by nature. Most of them go bad,
+sooner or later (while a rare few mature into &quot;mainstream religions&quot;). My hopes are that groups like 
+SMART, SOS, Lifering, Moderation Management, and HAMS will fill the void and do some good.
+I have received other letters from people who are establishing such groups in London, but that's
+a little far from Scotland.
+<p>
+Oh, and just as a by-the-way, considering the moderate, sensible sound of your groups,
+I guess the missionaries for
+<a href="orange-clancy_i.html" target="_blank">Clancy's Clones</a> haven't reached Scotland yet. They will,
+eventually, and then you will see some real crazy fundamentalism and exploitative cult behavior.
+They have already established groups in London and Plymouth.
+
+<p>
+Have a good day now.
+<p>
+== Orange
+</font>
+
+<p>
+<font color="blue">
+<pre>
+*             orange@orange-papers.info        *
+*         AA and Recovery Cult Debunking      *
+*          http://www.Orange-Papers.org/      *
+**     A.A. says that alcoholism is a disease, not a
+**     moral shortcoming. That's why you must list
+**     and confess all of your sins and moral
+**     shortcomings and wrongs in Steps 4 through 7.
+</pre>
+</font>
+<p><br><br><center><img src="http://orange-papers.info/coloredbar.gif"></center><p><br><br>
+
+
+Date:  	Wed, April 13, 2011 6:11 pm &nbsp; &nbsp; (answered 20 April 2011)<br>
+From:  	&quot;Taylor W.&quot;<br>
+Subject:  	Suggestion<br>
+
+<p>
+Hello again,
+
+<p>
+Orange, I may have missed a banner or logo or something, but I think it would be a
+good idea to make the forum more visible in somewhere. Near as I can tell, the only
+link is down in the updates section. Which makes me think only a tiny portion of
+your readers are aware that it exists.
+
+<p>
+If I missed a more prominent &quot;advertisement&quot; or if I'm jumping the gun and this is
+something you'd already planned to remedy, I apologize for butting in.
+
+<p>
+All the best,<br>
+Taylor
+
+<p>
+<font color="blue">
+Hello Taylor,
+<p>
+Actually, the forum is also listed at the top of the home page, and in the letters section.
+But here it is again, just for good measure:
+<p>
+<p>
+I think the home page needs a redesign. At that point, I'll give the forum a more prominent link.
+<p>
+Have a good day now.
+<p>
+== Orange
+</font>
+
+<p>
+<font color="blue">
+<pre>
+*             orange@orange-papers.info        *
+*         AA and Recovery Cult Debunking      *
+*          http://www.Orange-Papers.org/      *
+**
+**     TRUMP PLEDGES GLOBAL RESPONSE TO CREDIT CRISIS.
+**     Donald Trump announced today that when he is President,
+**     we will invade Switzerland and seize all of the money in
+**     their banks &#8212; the &quot;Weapons of Mass Finance&quot; &#8212; and
+**     use it to fix our big deficits. &quot;We will just go and take
+**     the money, the same way as we will just go and take the
+**     oil from Libya.&quot;  Trump also says that we can use
+**     Switzerland's own money to rebuild their country after we
+**     blow it up.
+</pre>
+</font>
+<p><br><br><center><img src="http://orange-papers.info/coloredbar.gif"></center><p><br><br>
+
+<a name="Greg"> </a>
+Date:  	Sun, April 17, 2011 12:46 pm &nbsp; &nbsp; (answered 20 April 2011)<br>
+From:  	Greg<br>
+Subject:  	Jim Burwell<br>
+
+<p>
+In your essay on
+<a href="orange-religious_faith.html#blasphemy" target="_blank">
+ &quot;A.A. and Religious Faith&quot; you discuss the fellow called &quot;Ed&quot;</a>
+ in
+the chapter on Tradition Three in the 12&amp;12, and then Jim Burwell, whose story is in
+the Big Book as &quot;The Vicious Cycle,&quot; as if they were different people. They are well
+known to have been one and the same. Jim eventually resettled here in San Diego,
+where he remained an active member of A.A. until he passed away in 1974.
+<p>
+ A few years
+ago I met an old timer who knew him personally, who assured me that in fact Jim
+remained either an &quot;atheist&quot; or &quot;agnostic&quot; (depending on the mood he was in when you
+asked him) right up to the end. Bill Wilson's implication in the 12&amp;12 that &quot;Ed&quot;
+experienced some kind of religious conversion is totally misleading. (Can you
+imagine that? Bill Wilson deliberately lieing to promote his own religious agenda!)
+<p>
+In fact, Jim continued for the rest of his life to promote a thoroughly secular
+&quot;alternative brand&quot; of A.A. That may be at least part of the reason why I have often
+heard the prevailing San Diego A.A. culture disparaged by out-of-town visitors as
+&quot;A.A. Lite.&quot;
+
+<p>
+&#8212;&quot;Greg the Atheist&quot;
+
+<p>
+<font color="blue">
+Hello Greg,
+<p>
+Thanks for the letter. That is very interesting. It's doubly interesting because
+the story of &quot;Ed&quot; was sort of the story of Jim Burwell, but then again, it wasn't,
+because the story was partly fabrication. Apparently, Bill Wilson supplied the
+ending that he wished had happened, rather than what reality supplied.
+(Isn't reality just such a bitch that way?)
+<p>
+What remains from those two stories is Bill Wilson's lesson that alcoholics should either convert
+to his religion or die.
+
+
+<p>
+It never ceases to amaze me how much of the core dogma and history of A.A. turns out to be fiction.
+Every time you investigate and look closely, you find another fraud and deception.
+<a href="orange-funny_spirituality.html#Hartigan2" target="_blank">Even the story
+of Bill Wilson's own spiritual experience seems to have been plagiarized from his own
+grandfather</a>.
+
+<p>
+Oh well, have a good day anyway.
+<p>
+== Orange
+</font>
+
+<p>
+<font color="blue">
+<pre>
+*             orange@orange-papers.info        *
+*         AA and Recovery Cult Debunking      *
+*          http://www.Orange-Papers.org/      *
+**     Get your facts first, then you can distort them as you please.
+**        == Mark Twain (American Humorist, Writer &amp; Lecturer. 1835&#8212;1910)
+</pre>
+</font>
+<p><br><br><center><img src="http://orange-papers.info/coloredbar.gif"></center><p><br><br>
+
+
+
+Date:  	Sun, April 17, 2011 2:17 pm &nbsp; &nbsp; (answered 21 April 2011)<br>
+From:  	&quot;Anonymous&quot; <br>
+Subject:  	From 1941 and 1942 ....Interesting News Articles About AA<br>
+
+<p>
+To Orange,
+
+<p>
+ 
+Man Saved from Prison Cell by Alcoholics Anonymous
+
+<p>
+Judge Gives Bad Check Writer Another Chance By Sentencing Him to Two Years To Toledo
+Member Of Group
+
+<p>
+Toledo Blade &#8212; October 21, 1941
+<p>
+<center>
+<a href="ohio_newspaper-13.jpg" target="_blank">
+<img src="http://orange-papers.info/ohio_newspaper-13.jpg" width="800&quot;" border="0" alt="AA newspaper article"></a>
+<p>
+<a href="ohio_newspaper-13a.jpg" target="_blank">
+<img src="http://orange-papers.info/ohio_newspaper-13a.jpg" width="800&quot;" border="0" alt="AA newspaper article"></a>
+
+
+<p>
+<font color="blue">
+[Click on the images for the full-size display.]
+</font>
+</center>
+
+<p>
+AA Co Founder Tells of Breaking 35 Year Drunk
+
+<p>
+Youngstown Vindicator October 5, 1942
+<p>
+<center>
+<a href="ohio_newspaper-11a.jpg" target="_blank">
+<img src="http://orange-papers.info/ohio_newspaper-11a.jpg" width="800&quot;" border="0" alt="AA newspaper article"></a>
+<p>
+<a href="ohio_newspaper-11.jpg" target="_blank">
+<img src="http://orange-papers.info/ohio_newspaper-11.jpg" width="800&quot;" border="0" alt="AA newspaper article"></a>
+
+</center>
+
+
+<p>
+(Actually an Advertisement)
+
+<p>
+Local Alcoholics Anonymous Chapter Will Hear Founder
+
+<p>
+Dr X of Akron to Address City Wide Meeting in Green Auditorium Tomorrow Night;
+Sincerely Interested Persons Urged to Attend
+
+<p>
+Toledo Blade &#8212; November, 28 1941
+
+<p>
+<center>
+<a href="ohio_newspaper-12.jpg" target="_blank">
+<img src="http://orange-papers.info/ohio_newspaper-12.jpg" width="800&quot;" border="0" alt="AA newspaper article"></a>
+<p>
+<a href="ohio_newspaper-12a.jpg" target="_blank">
+<img src="http://orange-papers.info/ohio_newspaper-12a.jpg" width="800&quot;" border="0" alt="AA newspaper article"></a>
+
+</center>
+
+
+<p>
+Lots of other articles and ads about AA in the news archives
+
+<p>
+From Anonymous
+
+<p>
+<font color="blue">
+Hello Anonymous,
+<p>
+Thank you very much for the history. That is very revealing. I still have A.A. members
+complaining that they never work to get alcoholics sentenced to A.A., but here are articles that prove
+that they have been scheming to get the judge to sentence the alcoholics to their meetings since
+the very beginning, in 1941 and 1942. (Just the same as the Oxford Group did before them. Bill Wilson's
+&quot;sponsor&quot;
+<a href="orange-rroot780.html#Judge_Graves" target="_blank">Ebby Thacher
+was sentenced to the &quot;religious cure&quot; of the Oxford Group by Judge Graves</a>,
+as an alternative to 6 months in jail for habitual drunkenness.)
+
+<p>
+What is the URL of that newspaper archive?
+
+<p>
+Have a good day now.
+<p>
+== Orange
+</font>
+<p>
+
+<font color="blue">
+<pre>
+*             orange@orange-papers.info        *
+*         AA and Recovery Cult Debunking      *
+*          http://www.Orange-Papers.org/      *
+**  &quot;The only thing new in the world is the history you don't know.&quot;
+**     ==  from MERLE MILLER, <i>Plain Speaking: An Oral Biography
+**           of Harry S. Truman</i> [1974], ch. 23
+</pre>
+</font>
+<p><br><br><center><img src="http://orange-papers.info/coloredbar.gif"></center><p><br><br>
+
+<a name="millions"> </a>
+Date:  	Mon, April 18, 2011 11:34 am &nbsp; &nbsp; (answered 21 April 2011)<br>
+From:  	&quot;Cliff C.&quot;<br>
+Subject:  	INFORMation<br>
+
+<p>
+While I appreciate the depth of research I am curious about why.  It appears very
+slanted and determined to undermind a program that has helped millions.....Question,
+no matter what the source of teaching or from whom, if it has saved millions, can it
+be so bad?
+
+<p>
+Clifford C.
+
+<p>
+<font color="blue">
+Hello Clifford,
+<p>
+The A.A. story that A.A. has helped millions of people to get sober
+is a complete lie. What A.A. has actually done
+is deceive millions, and cause more people to die drunk or commit suicide, and to suffer
+from years of mental anguish. A.A. does more harm than good.
+We have discussed this A.A. myth many times before, even just recently, so I'll point you
+to a few of the answers:
+
+<p>
+<ul>
+<p><li> <a href="orange-letters231.html#millions" target="_blank">
+you must be right ,and millions of people are wrong.</a>
+
+<p><li> <a href="orange-letters230.html#millions" target="_blank">
+'I don't want millions of people to get help from addiction because I disagree with
+how the message was conceived'.?</a>
+
+<p><li> <a href="orange-letters229.html#millions" target="_blank">
+I would not waste my time bashing an organization that doesn't work for me (even
+though millions have found AA extremely useful)</a>.
+
+<p><li> <a href="orange-letters228.html#millions" target="_blank">
+Both Buchman and Wilson have provided millions of people a way to feel
+better about themselves and their purpose, whether real or imagined.</a>
+</ul>
+<p>
+Have a good day now.
+<p>
+== Orange
+
+</font>
+<p>
+
+<font color="blue">
+<pre>
+*             orange@orange-papers.info        *
+*         AA and Recovery Cult Debunking      *
+*          http://www.Orange-Papers.org/      *
+**     &quot;If you tell a lie big enough and keep repeating it, people
+**      will eventually come to believe it. The lie can be maintained
+**      only for such time as the State can shield the people from
+**      the political, economic and/or military consequences of the
+**      lie. It thus becomes vitally important for the State to use
+**      all of its powers to repress dissent, for the truth is the
+**      mortal enemy of the lie, and thus by extension, the truth is
+**      the greatest enemy of the State.&quot;
+**         ==  Joseph Goebbels, Nazi Minister of Propaganda
+</pre>
+</font>
+
+
+<!------------
+<P><br><br><center><img src="coloredbar.gif"></center><P><br><br>
+----------->
+
+
+<p><br><br><center><img src="http://orange-papers.info/coloredbar.gif"><p><br><br>
+
+<font size="+2">
+<a href="orange-letters233.html">More Letters</a>
+<p><br>
+<a href="orange-letters231.html">Previous Letters</a>
+</font>
+
+<p><br><br><img src="http://orange-papers.info/coloredbar.gif"><p><br><br>
+
+
+<p><br><br><img src="http://orange-papers.info/coloredbar.gif"><p><br><br></center>
+
+
+<center>
+Search the Orange Papers<br>
+<input type="text" name="query" value="">
+<input type="hidden" name="user" value="orangepa">
+<input type="hidden" name="basehref" value="http://orange-papers.info">
+<input type="hidden" name="template" value="default">
+<input type="submit" value="Search">
+</form>
+
+
+<p><br><br>
+
+<center>
+<a href="orange-wishlist.html#donations" target="_blank">
+<table width="571" border="6" bordercolor="blue" cellpadding="20" cellspacing="10"><tr><td><center><font size="+1">
+     </font></center></td><td>
+<center><img src="http://orange-papers.info/orange-Paypal_button.png" width="130" height="52" border="3">
+</center></td></tr></table></a>
+</center>
+
+<p><br><br>
+
+<img src="http://orange-papers.info/coloredbar.gif"><p><br><br>
+
+
+<font size="2" face="arial, helvetica" color="#000000">
+Click Fruit for Menu<br>
+
+
+ 
+<a href="menu1.html" onmouseover="on('orange');window.status='orange';return true" onmouseout="off('orange');">
+<img src="http://orange-papers.info/orange_off.gif" align="bottom" width="72" height="57" border="0" name="orange"></a>
+</center>
+<p>
+<font size="-1">Last updated 12 July 2015.<br>
+The most recent version of this file can be found at
+<a href="http://www.orange-papers.info/orange-letters232.html">
+http://www.orange-papers.info/orange-letters232.html</a>
+</font>
+</font></td></tr></table>
+</center>
+<p align="right">
+</font></p>
+<p><br>
+</body>
+</html>
+

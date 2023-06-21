@@ -1,0 +1,61 @@
+
+<HTML>
+<HEAD>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<TITLE>Error 404</TITLE>
+</HEAD>
+<BODY BGCOLOR="#FFC88D" TEXT="#333333" LINK="#006666" VLINK="#00968E" ALINK="#8000FF">
+<font size=3 base=3>
+<center>
+<table width=80% border=0 cellpadding=5 cellspacing=5>
+<tr><td>
+<font size=4 base=4>
+<center>
+
+<IMG SRC="orange_off.gif">
+<P>
+<br>
+<br>
+
+<font size="+2"><b>Error 404</b></font><br>
+</center>
+<P>
+<br>
+<br>
+
+
+<center>
+<h1>Not Found</h1>
+</center>
+<P>
+The requested URL was not found on this server.
+<P><br><br>
+
+
+<center>
+<h1>
+<font color="red">Seite nicht gefunden</font></h1>
+</center>
+
+<P>
+Die von Ihnen gesuchte Seite ist entweder nicht mehr vorhanden oder
+Sie haben sich m&ouml;glicherweise beim Eingeben der URL vertippt.
+
+
+<P><br><br><center><img src="coloredbar.gif"><P><br><br>
+
+<P><br><br><img src="coloredbar.gif"><P><br><br></center>
+
+<center><font size=2 face="arial, helvetica" color="#000000">
+Click Fruit for Menu<br>
+<A HREF="menu1.html">
+<IMG SRC="orange_off.gif" ALIGN="bottom" WIDTH=72 HEIGHT=57 border=0 name="orange"></a>
+</center>
+<P>
+</font>
+</td></tr></table>
+</center>
+<P><br>
+</body>
+</html>
+

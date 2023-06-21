@@ -1,0 +1,202 @@
+<html>
+<head><script type="text/javascript" src="/static/js/analytics.js?v=1500596387.0" charset="utf-8"></script>
+
+<script type="text/javascript">archive_analytics.values.service='wb';archive_analytics.values.server_name='wwwb-app40.us.archive.org';archive_analytics.values.server_ms=1105;</script><script type="text/javascript" src="/static/js/wbhack.js?v=1500596387.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('http://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1500596387.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1500596387.0" />
+
+<!-- End Wayback Rewrite JS Include -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="Classification" content="education, health, alcoholism, recovery, addiction, self-help">
+<meta name="Keywords" content="alcoholics, anonymous, insanity, cults, Alcoholics Anonymous, humor">
+<meta name="Description" content="">
+<title>Do You Think Too Much?</title>
+<script language="JavaScript">
+if (parseInt(navigator.appVersion.substring(0,1))>=3) {
+ // 3.0 or greater.
+orange_on = new Image();
+orange_off = new Image();
+orange_off.src = 'orange_off.gif';
+orange_on.src = 'orange_on.gif';
+}
+function on(image) {
+  if (parseInt(navigator.appVersion.substring(0,1))>=3) {
+ // 3.0 or greater.
+      imagesrc = eval(image + '_on.src');
+      document[image].src = imagesrc;
+  }
+}
+function off(image) {
+  if (parseInt(navigator.appVersion.substring(0,1))>=3) {
+ // 3.0 or greater.
+      imagesrc = eval(image + "_off.src");
+      document[image].src = imagesrc;
+ }
+}
+</script>
+</head>
+<body bgcolor="white" text="#000000" link="#006666" vlink="#00968E" alink="#8000FF">
+<font size="4" base="4">
+<center>
+<table width="93%%" border="0" cellpadding="5" cellspacing="5">
+<tr><td>
+<font size="4" base="4" face="Times,Roman">
+<font size="4" base="4">
+
+<center>
+<font size="+2"><b>
+Do You Think Too Much?
+</b></font><br>
+</center>
+<p>
+
+
+<p>
+&nbsp; &nbsp; &nbsp;
+It started out innocently enough. I began to think at parties now and
+then to loosen up. Inevitably though, one thought led to another, and
+soon I was more than just a social thinker.
+
+<p>
+&nbsp; &nbsp; &nbsp;
+I began to think alone &#8212; &quot;to relax,&quot; I told myself &#8212; but I knew it
+wasn't true. Thinking became more and more important to me, and
+finally I was thinking all the time.
+
+<p>
+&nbsp; &nbsp; &nbsp;
+I began to think on the job. I knew that thinking and employment
+don't mix, but I couldn't stop myself.
+
+<p>
+&nbsp; &nbsp; &nbsp;
+I began to avoid friends at lunchtime so I could read Thoreau and
+Kafka. I would return to the office dizzied and confused,
+asking, &quot;What is it exactly we are doing here?&quot;
+
+<p>
+&nbsp; &nbsp; &nbsp;
+Things weren't going so great at home either. One evening I had
+turned off the TV and asked my wife about the meaning of life. She
+spent that night at her mother's.
+
+<p>
+&nbsp; &nbsp; &nbsp;
+I soon had a reputation as a heavy thinker. One day the boss called
+me in. He said, &quot;Skippy, I like you, and it hurts me to say this, but
+your thinking has become a real problem. If you don't stop thinking
+on the job, you'll have to find another job.&quot; This gave me a lot to
+think about.
+
+<p>
+&nbsp; &nbsp; &nbsp;
+I came home early after my conversation with the boss. &quot;Honey,&quot; I
+confessed, &quot;I've been thinking...&quot;
+
+<p>
+&nbsp; &nbsp; &nbsp;
+&quot;I know you've been thinking,&quot; she said, &quot;and I want a divorce!&quot;
+
+<p>
+&nbsp; &nbsp; &nbsp;
+&quot;But Honey, surely it's not that serious.&quot;
+
+<p>
+&nbsp; &nbsp; &nbsp;
+&quot;It is serious,&quot; she said, lower lip aquiver. &quot;You think as much as
+college professors, and college professors don't make any money, so
+if you keep on thinking we won't have any money!&quot;
+
+<p>
+&nbsp; &nbsp; &nbsp;
+&quot;That's a faulty syllogism,&quot; I said impatiently, and she began to
+cry. I'd had enough. &quot;I'm going to the library,&quot; I snarled as I
+stomped out the door.
+
+<p>
+&nbsp; &nbsp; &nbsp;
+I headed for the library, in the mood for some Nietzsche, with a PBS
+station on the radio. I roared into the parking lot and ran up to the
+big glass doors... they didn't open. The library was closed.
+
+<p>
+&nbsp; &nbsp; &nbsp;
+To this day, I believe that a Higher Power was looking out for me
+that night.
+As I sank to the ground clawing at the unfeeling glass, whimpering
+for Zarathustra, a poster caught my eye. &quot;Friend, is heavy thinking
+ruining your life?&quot; it asked. You probably recognize that line. It
+comes from the standard Thinker's Anonymous poster.
+
+<p>
+&nbsp; &nbsp; &nbsp;
+Which is why I am what I am today: a recovering thinker. I never miss
+a TA meeting. At each meeting we watch a non-educational video; last
+week it was &quot;Porky's.&quot; Then we share experiences about how we avoided
+thinking since the last meeting.
+
+<p>
+&nbsp; &nbsp; &nbsp;
+I still have my job, and things are a lot better at home. Life just
+seemed... easier, somehow, as soon as I stopped thinking.
+
+<p>
+(The author of this little jewel is unknown.)
+
+
+
+
+<p><br><br><center><img src="http://www.orange-papers.info/coloredbar.gif"><p><br><br></center>
+
+
+<center>
+Search the Orange Papers<br>
+<input type="text" name="query" value="">
+<input type="hidden" name="user" value="orangepa">
+<input type="hidden" name="basehref" value="http://orange-papers.info">
+<input type="hidden" name="template" value="default">
+<input type="submit" value="Search">
+</form>
+
+
+<p><br><br>
+
+<center>
+<a href="orange-wishlist.html#donations" target="_blank">
+<table width="571" border="6" bordercolor="blue" cellpadding="20" cellspacing="10"><tr><td><center><font size="+1">
+     </font></center></td><td>
+<center><img src="http://www.orange-papers.info/orange-Paypal_button.png" width="130" height="52" border="3">
+</center></td></tr></table></a>
+</center>
+
+<p><br><br>
+
+<img src="http://www.orange-papers.info/coloredbar.gif"><p><br><br>
+
+
+<font size="2" face="arial, helvetica" color="#000000">
+Click Fruit for Menu<br>
+
+
+
+<a href="menu1.html" onmouseover="on('orange');window.status='orange';return true" onmouseout="off('orange');">
+<img src="http://www.orange-papers.info/orange_off.gif" align="bottom" width="72" height="57" border="0" name="orange"></a>
+</font>
+</center>
+<p>
+<font size="-1">Last updated 23 March 2004.<br>
+The most recent version of this file can be found at
+<a href="http://www.orange-papers.info/orange-thinker.html">
+http://www.orange-papers.info/orange-thinker.html</a>
+</font>
+<br>
+</font></td></tr></table>
+</center>
+<br>
+</body>
+</html>
+

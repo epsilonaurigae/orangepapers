@@ -1,0 +1,1547 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN"
+  "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" version="XHTML+RDFa 1.0" dir="ltr" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:dc="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:og="http://ogp.me/ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:sioc="http://rdfs.org/sioc/ns#" xmlns:sioct="http://rdfs.org/sioc/types#" xmlns:skos="http://www.w3.org/2004/02/skos/core#" xmlns:xsd="http://www.w3.org/2001/XMLSchema#">
+
+<head profile="http://www.w3.org/1999/xhtml/vocab"><script type="text/javascript" src="/static/js/analytics.js?v=1500596387.0" charset="utf-8"></script>
+
+<script type="text/javascript">archive_analytics.values.service='wb';archive_analytics.values.server_name='wwwb-app14.us.archive.org';archive_analytics.values.server_ms=281;</script><script type="text/javascript" src="/static/js/wbhack.js?v=1500596387.0" charset="utf-8"></script>
+
+<script type="text/javascript">
+__wbhack.init('http://web.archive.org/web');
+</script>
+<link rel="stylesheet" type="text/css" href="/static/css/banner-styles.css?v=1500596387.0" />
+<link rel="stylesheet" type="text/css" href="/static/css/iconochive.css?v=1500596387.0" />
+
+<!-- End Wayback Rewrite JS Include -->
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+<link rel="shortcut icon" href="http://web.archive.org/web/20160811231155im_/http://www.orange-papers.org/forum/misc/favicon.ico" type="image/vnd.microsoft.icon"/>
+<meta name="Generator" content="Drupal 7 (http://drupal.org)"/>
+<link rel="alternate" type="application/rss+xml" title="www.orange-papers.org RSS" href="http://web.archive.org/web/20160811231155/http://www.orange-papers.org/forum/rss.xml"/>
+  <title>www.orange-papers.org</title>
+  <style type="text/css" media="all">
+@import url("http://web.archive.org/web/20160811231155cs_/http://www.orange-papers.org/forum/modules/system/system.base.css?nz0pvh");
+@import url("http://web.archive.org/web/20160811231155cs_/http://www.orange-papers.org/forum/modules/system/system.menus.css?nz0pvh");
+@import url("http://web.archive.org/web/20160811231155cs_/http://www.orange-papers.org/forum/modules/system/system.messages.css?nz0pvh");
+@import url("http://web.archive.org/web/20160811231155cs_/http://www.orange-papers.org/forum/modules/system/system.theme.css?nz0pvh");
+</style>
+<style type="text/css" media="all">
+@import url("http://web.archive.org/web/20160811231155cs_/http://www.orange-papers.org/forum/modules/aggregator/aggregator.css?nz0pvh");
+@import url("http://web.archive.org/web/20160811231155cs_/http://www.orange-papers.org/forum/modules/book/book.css?nz0pvh");
+@import url("http://web.archive.org/web/20160811231155cs_/http://www.orange-papers.org/forum/modules/comment/comment.css?nz0pvh");
+@import url("http://web.archive.org/web/20160811231155cs_/http://www.orange-papers.org/forum/modules/field/theme/field.css?nz0pvh");
+@import url("http://web.archive.org/web/20160811231155cs_/http://www.orange-papers.org/forum/modules/node/node.css?nz0pvh");
+@import url("http://web.archive.org/web/20160811231155cs_/http://www.orange-papers.org/forum/modules/poll/poll.css?nz0pvh");
+@import url("http://web.archive.org/web/20160811231155cs_/http://www.orange-papers.org/forum/modules/search/search.css?nz0pvh");
+@import url("http://web.archive.org/web/20160811231155cs_/http://www.orange-papers.org/forum/modules/user/user.css?nz0pvh");
+@import url("http://web.archive.org/web/20160811231155cs_/http://www.orange-papers.org/forum/modules/forum/forum.css?nz0pvh");
+</style>
+<style type="text/css" media="all">
+@import url("http://web.archive.org/web/20160811231155cs_/http://www.orange-papers.org/forum/modules/openid/openid.css?nz0pvh");
+</style>
+<style type="text/css" media="all">
+@import url("http://web.archive.org/web/20160811231155cs_/http://www.orange-papers.org/forum/themes/bartik/css/layout.css?nz0pvh");
+@import url("http://web.archive.org/web/20160811231155cs_/http://www.orange-papers.org/forum/themes/bartik/css/style.css?nz0pvh");
+@import url("http://web.archive.org/web/20160811231155cs_/http://www.orange-papers.org/forum/sites/default/files/color/bartik-2e95d52f/colors.css?nz0pvh");
+</style>
+<style type="text/css" media="print">
+@import url("http://web.archive.org/web/20160811231155cs_/http://www.orange-papers.org/forum/themes/bartik/css/print.css?nz0pvh");
+</style>
+
+<!--[if lte IE 7]>
+<link type="text/css" rel="stylesheet" href="http://www.orange-papers.org/forum/themes/bartik/css/ie.css?nz0pvh" media="all" />
+<![endif]-->
+
+<!--[if IE 6]>
+<link type="text/css" rel="stylesheet" href="http://www.orange-papers.org/forum/themes/bartik/css/ie6.css?nz0pvh" media="all" />
+<![endif]-->
+  <script type="text/javascript" src="http://web.archive.org/web/20160811231155js_/http://www.orange-papers.org/forum/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20160811231155js_/http://www.orange-papers.org/forum/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20160811231155js_/http://www.orange-papers.org/forum/misc/drupal.js?nz0pvh"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20160811231155js_/http://www.orange-papers.org/forum/misc/jquery.cookie.js?v=1.0"></script>
+<script type="text/javascript" src="http://web.archive.org/web/20160811231155js_/http://www.orange-papers.org/forum/modules/openid/openid.js?nz0pvh"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/forum\/","pathPrefix":"","ajaxPageState":{"theme":"bartik","theme_token":"T2Y-xGuKMbQHismzGEeaa_4a2hqeAzMabnDmhudpWZY","js":{"misc\/jquery.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"misc\/jquery.cookie.js":1,"modules\/openid\/openid.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"modules\/aggregator\/aggregator.css":1,"modules\/book\/book.css":1,"modules\/comment\/comment.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/poll\/poll.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"modules\/forum\/forum.css":1,"modules\/openid\/openid.css":1,"themes\/bartik\/css\/layout.css":1,"themes\/bartik\/css\/style.css":1,"themes\/bartik\/css\/colors.css":1,"themes\/bartik\/css\/print.css":1,"themes\/bartik\/css\/ie.css":1,"themes\/bartik\/css\/ie6.css":1}},"urlIsAjaxTrusted":{"\/forum\/node?destination=node":true}});
+//--><!]]>
+</script>
+</head>
+<body class="html front not-logged-in one-sidebar sidebar-first page-node">
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+    <div id="page-wrapper"><div id="page">
+
+  <div id="header" class="without-secondary-menu"><div class="section clearfix">
+
+          <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/" title="Home" rel="home" id="logo">
+        <img src="http://web.archive.org/web/20160811231155im_/http://www.orange-papers.org/forum/sites/default/files/color/bartik-2e95d52f/logo.png" alt="Home"/>
+      </a>
+    
+          <div id="name-and-slogan">
+
+                              <h1 id="site-name">
+              <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/" title="Home" rel="home"><span>www.orange-papers.org</span></a>
+            </h1>
+                  
+        
+      </div> <!-- /#name-and-slogan -->
+    
+    
+          <div id="main-menu" class="navigation">
+        <h2 class="element-invisible">Main menu</h2><ul id="main-menu-links" class="links clearfix"><li class="menu-198 first active"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/" class="active">Home</a></li>
+<li class="menu-431 last"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/1844" title="Snappy come-backs to slogans">Sloganalysis</a></li>
+</ul>      </div> <!-- /#main-menu -->
+    
+    
+  </div></div> <!-- /.section, /#header -->
+
+  
+  
+  <div id="main-wrapper" class="clearfix"><div id="main" class="clearfix">
+
+    
+          <div id="sidebar-first" class="column sidebar"><div class="section">
+          <div class="region region-sidebar-first">
+    <div id="block-user-login" class="block block-user">
+
+    <h2>User login</h2>
+  
+  <div class="content">
+    <form action="/web/20160811231155/http://www.orange-papers.org:80/forum/node?destination=node" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-openid-identifier">
+  <label for="edit-openid-identifier">Log in using OpenID </label>
+ <input type="text" id="edit-openid-identifier" name="openid_identifier" value="" size="15" maxlength="255" class="form-text"/>
+<div class="description"><a href="http://web.archive.org/web/20160811231155/http://openid.net/">What is OpenID?</a></div>
+</div>
+<div class="form-item form-type-textfield form-item-name">
+  <label for="edit-name">Username <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required"/>
+</div>
+<div class="form-item form-type-password form-item-pass">
+  <label for="edit-pass">Password <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required"/>
+</div>
+<input type="hidden" name="form_build_id" value="form-vqFdEu_xmabWoAW4apM5mrMso4OPx7PObdt1LUuUe4M"/>
+<input type="hidden" name="form_id" value="user_login_block"/>
+<input type="hidden" name="openid.return_to" value="http://www.orange-papers.org/forum/openid/authenticate?destination=node"/>
+<div class="item-list"><ul class="openid-links"><li class="openid-link first"><a href="#openid-login">Log in using OpenID</a></li>
+<li class="user-link last"><a href="#">Cancel OpenID login</a></li>
+</ul></div><div class="item-list"><ul><li class="first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/register" title="Create a new user account.">Create new account</a></li>
+<li class="last"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/password" title="Request new password via e-mail.">Request new password</a></li>
+</ul></div><div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Log in" class="form-submit"/></div></div></form>  </div>
+</div>
+<div id="block-system-navigation" class="block block-system block-menu">
+
+    <h2>Navigation</h2>
+  
+  <div class="content">
+    <ul class="menu clearfix"><li class="first collapsed"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/forum">Forums</a></li>
+<li class="collapsed"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/blog">Blogs</a></li>
+<li class="collapsed"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/filter/tips">Compose tips</a></li>
+<li class="leaf"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/poll">Polls</a></li>
+<li class="last leaf"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/tracker">Recent content</a></li>
+</ul>  </div>
+</div>
+<div id="block-forum-new" class="block block-forum">
+
+    <h2>New forum topics</h2>
+  
+  <div class="content">
+    <div class="item-list"><ul><li class="first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7165" title="1 comment">Salt Lake County, Utah woman headed to AA meeting arrested for deadly crash (for DUI) in Cottonwood Heights AA Service Area 69</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7163" title="2 comments">Troubled Teen Iron Range Mesabi Academy in St. Louis County, Minnesota forced to close June 30, 2016 due to allegations of abuse</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7152">title = treatment ranking.... or why does janus enable aa finaicial abuse</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7146" title="1 comment">U.K. guardian today: article arguing against addiction being a disease</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7145">The 13th Step film is for sale on VIMEO now.</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7139">Opiate Induced Endocrinopathy</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7135">Are Alcoholics Anonymous (AA) Service Work and AA 12th Step work the same?</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7123">Prince’s Over Dose Death April 21, 2016 Reveals &quot;What’s Wrong with Addiction Treatment&quot;</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7113" title="4 comments">Janus the nonsense, where&#039;s our silly Saturday theroy???</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7110">ls the Mayflower Hotel at 263 S Main St. Akron with the famous AA phone open during the 2016 81st AA Founders&#039; Day June 10-12?</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7109" title="3 comments">What is the purpose of Al-Anon/Alateen attending the 2016 81st AA Founders&#039; Day in Akron, Ohio?</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7108">2016 81st AA Founders&#039; Day ( June 10-12, 2016) at the Gate Lodge (Home of Henrietta Seiberling) where Dr. Bob and Bill W. met.</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7106" title="4 comments">The Wilson House (Birth Place of Bill Wilson) in East Dorset, VT will be holding a private retreat during the 2016 Founders Day.</a></li>
+<li class="last"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7104">Dr. Bob&#039;s home at 855 Ardmore Ave., Akron, Ohio has special hours during the 2016 81st Founders Day in Akron, Ohio</a></li>
+</ul></div><div class="more-link"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/forum" title="Read the latest forum topics.">More</a></div>  </div>
+</div>
+<div id="block-forum-active" class="block block-forum">
+
+    <h2>Active forum topics</h2>
+  
+  <div class="content">
+    <div class="item-list"><ul><li class="first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7165" title="1 comment">Salt Lake County, Utah woman headed to AA meeting arrested for deadly crash (for DUI) in Cottonwood Heights AA Service Area 69</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7163" title="2 comments">Troubled Teen Iron Range Mesabi Academy in St. Louis County, Minnesota forced to close June 30, 2016 due to allegations of abuse</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7146" title="1 comment">U.K. guardian today: article arguing against addiction being a disease</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7152">title = treatment ranking.... or why does janus enable aa finaicial abuse</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7145">The 13th Step film is for sale on VIMEO now.</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7139">Opiate Induced Endocrinopathy</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7106" title="4 comments">The Wilson House (Birth Place of Bill Wilson) in East Dorset, VT will be holding a private retreat during the 2016 Founders Day.</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7135">Are Alcoholics Anonymous (AA) Service Work and AA 12th Step work the same?</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7123">Prince’s Over Dose Death April 21, 2016 Reveals &quot;What’s Wrong with Addiction Treatment&quot;</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7113" title="4 comments">Janus the nonsense, where&#039;s our silly Saturday theroy???</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7097" title="53 comments">AA Finally Wakes Up to Its Survival Crisis and Punts</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7085" title="3 comments">Good News</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7109" title="3 comments">What is the purpose of Al-Anon/Alateen attending the 2016 81st AA Founders&#039; Day in Akron, Ohio?</a></li>
+<li class="last"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7110">ls the Mayflower Hotel at 263 S Main St. Akron with the famous AA phone open during the 2016 81st AA Founders&#039; Day June 10-12?</a></li>
+</ul></div><div class="more-link"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/forum" title="Read the latest forum topics.">More</a></div>  </div>
+</div>
+<div id="block-comment-recent" class="block block-comment">
+
+    <h2>Recent comments</h2>
+  
+  <div class="content">
+    <div class="item-list"><ul><li class="first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/comment/126662#comment-126662">When I went into detox</a>&nbsp;<span>22 hours 32 min ago</span></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/comment/126661#comment-126661">Sex offenders aren&#039;t Powerless</a>&nbsp;<span>1 day 2 hours ago</span></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/comment/126660#comment-126660">I am sure there are 12 Step Meetings...</a>&nbsp;<span>1 day 8 hours ago</span></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/comment/126659#comment-126659">Obviously</a>&nbsp;<span>1 day 14 hours ago</span></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/comment/126658#comment-126658">Good points RationalS</a>&nbsp;<span>1 day 14 hours ago</span></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/comment/126657#comment-126657">This simple comment you, is</a>&nbsp;<span>1 day 18 hours ago</span></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/comment/126656#comment-126656">@ NoAAuk</a>&nbsp;<span>1 day 18 hours ago</span></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/comment/126655#comment-126655">When you&#039;re in a fight for</a>&nbsp;<span>2 days 19 hours ago</span></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/comment/126654#comment-126654">List of Celebrities in AA. The main question is what</a>&nbsp;<span>3 days 21 hours ago</span></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/comment/126653#comment-126653">I can&#039;t think of any current major movies where at least one of</a>&nbsp;<span>4 days 2 hours ago</span></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/comment/126652#comment-126652">Marlon Brando - Child of Alcoholics Anonymous Parents</a>&nbsp;<span>4 days 4 hours ago</span></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/comment/126651#comment-126651">Al Pacino and Alcoholics Anonymous</a>&nbsp;<span>4 days 20 hours ago</span></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/comment/126650#comment-126650">&quot;Never hate your enemy, it affects your judgement&quot;</a>&nbsp;<span>4 days 23 hours ago</span></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/comment/126649#comment-126649">the cult can seriously hurt people - it can take years to unwind</a>&nbsp;<span>5 days 1 min ago</span></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/comment/126648#comment-126648">10035 Jensen Drive Houston , TX 77093 | 713-692-7812</a>&nbsp;<span>5 days 1 hour ago</span></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/comment/126647#comment-126647">@NoAAuk</a>&nbsp;<span>5 days 7 hours ago</span></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/comment/126646#comment-126646">@ NoAAUK</a>&nbsp;<span>5 days 7 hours ago</span></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/comment/126645#comment-126645">@ NoAAUK</a>&nbsp;<span>5 days 8 hours ago</span></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/comment/126644#comment-126644">@NoAainUk Please, start taking some medication</a>&nbsp;<span>5 days 8 hours ago</span></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/comment/126643#comment-126643">id say never be consumed by hate or niceness else you&#039;re a fake</a>&nbsp;<span>5 days 10 hours ago</span></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/comment/126642#comment-126642">@Rolf Ankermann</a>&nbsp;<span>5 days 11 hours ago</span></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/comment/126641#comment-126641">@Brett</a>&nbsp;<span>5 days 12 hours ago</span></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/comment/126640#comment-126640">@bradyoldlady</a>&nbsp;<span>5 days 12 hours ago</span></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/comment/126639#comment-126639">@Rolf Ankermann</a>&nbsp;<span>5 days 12 hours ago</span></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/comment/126638#comment-126638">If Hitler had done his job</a>&nbsp;<span>5 days 13 hours ago</span></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/comment/126637#comment-126637">@ Rolf You&#039;ve been trolled</a>&nbsp;<span>5 days 14 hours ago</span></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/comment/126636#comment-126636">Champeen troll of all time</a>&nbsp;<span>5 days 22 hours ago</span></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/comment/126635#comment-126635">Don&#039;t forget your personal favorite </a>&nbsp;<span>6 days 3 hours ago</span></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/comment/126634#comment-126634">Mesabi Academy is in Buhl, Minnesota and is the largest</a>&nbsp;<span>6 days 6 hours ago</span></li>
+<li class="last"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/comment/126633#comment-126633">When will these people learn that child Gulags don&#039;t work?</a>&nbsp;<span>6 days 6 hours ago</span></li>
+</ul></div>  </div>
+</div>
+<div id="block-blog-recent" class="block block-blog">
+
+    <h2>Recent blog posts</h2>
+  
+  <div class="content">
+    <div class="item-list"><ul><li class="first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7169">My Story: I Was Accused of Being an Addict</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7168">&quot;On the basis of reports by addicts, I can say that a ‘fix’ does indeed exceed in quality any known sexual pleasure.&quot;</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7167">How to Fight Cult indoctrination. </a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7166">List of early (i.e. turn of the century) silent film stars who were alcoholics/addicts in movies on the big screen. These are the early movies that might have influenced Bill Wilson and Dr. Silkworth.</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7164">Never hate your enemy......</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7162">Sex offender arrested for stalking woman he met at an Alcoholics Anonymous Meeting in Berkley, Callifornia AA General Service Area 06 (CNCA) Alameda County</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7161">Man robbed of car by knife point giving a ride home from AA meeting Alchoholics Anonymous General Service area 67 Houston, Harris County, Southeast Texas Area (SETA)</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7160">Another cult pretending to be a charity</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7159">Whatever you do unto the least of my little ones...</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7156">Atlantic Monthly: Scientology in Taiwan</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7153">title = treatment rank or why does janus enable aa financial abuse</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7151">Ironic quote of Carl Jung&#039;s </a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7149">An article by Gabrielle Glaser about Maia Szalavitz&#039;s ideas</a></li>
+<li class="last"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7148">Ibogaine elimintes heroin withdrawal, but not the desire to get high again.</a></li>
+</ul></div><div class="more-link"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/blog" title="Read the latest blog entries.">More</a></div>  </div>
+</div>
+<div id="block-poll-recent" class="block block-poll">
+
+    <h2>Most Recent Poll</h2>
+  
+  <div class="content">
+    
+<div class="poll">
+  <div class="title">Who are the biggest totally self centred, fake socialists on this planet</div>
+  
+<div class="text">The British Labour Party</div>
+<div class="bar">
+  <div style="width: 50%;" class="foreground"></div>
+</div>
+<div class="percent">
+  50%
+</div>
+
+<div class="text">The US Democrat Party</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0%
+</div>
+
+<div class="text">Other PLEASE specify (if you can find a more fake socialist party on this planet)</div>
+<div class="bar">
+  <div style="width: 50%;" class="foreground"></div>
+</div>
+<div class="percent">
+  50%
+</div>
+  <div class="total">
+    Total votes: 2  </div>
+</div>
+<div class="links"><ul class="links"><li class="0 first last"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/poll" title="View the list of polls on this site.">Older polls</a></li>
+</ul></div>
+  </div>
+</div>
+<div id="block-statistics-popular" class="block block-statistics">
+
+    <h2>Popular content</h2>
+  
+  <div class="content">
+    <div class="item-list"><h3>All time:</h3><ul><li class="first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/5892">Orangies Implosion in Process</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/1196">Has anything in Alcoholics Anonymous changed since the September 19, 1964 Saturday Evening Post article by Dr. Arthur H. Cain? </a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/1872">Washington Post Article Bashes the tactics of AA Oldtimers who bait Younger Members to develop self-fulfilling prophecies. </a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/5891">Jim Battle counterfeit christian cunt</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/1539">So Is this site just up to complain about A.A. and no other topics allowed</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/5940">Don&#039;t Complain Because You Can&#039;t Order Steak At A Vegetarian Restaurant</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/5899">The &quot;cult&quot; with no leaders, no covert goals and no mechanisms for control</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/5881">Elizabeth Vargas Leaves Vacation to Enter Rehab for Alcohol Addiction</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/5973">Regular AA meetings to stay in touch with others</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/5975">Surprised at negative responses here.</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/5976">Steps and God don&#039;t keep many people sober</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/5974">I have my own mind, and Still attend AA</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/5979">Rational Recovery and Smart Recovery</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/611">Earl Hightower, Interventionist Extraordinaire and AA trapper</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/6117">The Heresy of the Twelve Steps - Idolatry (Part 6)</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/5019">&quot;13th Step memes&quot; of 12 Step recovery (AA/NA) - Facebook Founded January 15, 2013</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/6096">The Heresy of the Twelve Steps - Idolatry (Part 4)</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/6109">The Heresy of the Twelve Steps - Idolatry (Part 5)</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/6256">Is Emma Knutt&#039;s insanity due to his/her/its favourite hobby?  http://opf-circle-jerk.blogspot.com/   http://en.wikipedia.org/wiki/Circle_jerk_(sexual_practice) ?</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/6087">The Heresy of the Twelve Steps - Idolatry (Part 3) </a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/5915">Today’s question from Rolf Ankermann to all the visiting AA members is simply this; what, if anything, in the Twelve Steps enables or teaches people how to STOP drinking?</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/1601">Alcoholics Anonymous &quot;suggestions&quot; from the Interchurch on signing Court Cards (SMF-177) What AA does/Doesn&#039;t Do</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/4982">AA Death Threats</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/5850">Inventory Taking</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/6198">&quot;Breaking News&quot; Jerry/Jim Battle Admits AA&#039;s god &amp; bible god one &amp; the same.</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/5823">Why Let Facts Get In the Way Of An Entertaining Conspiracy Theory?</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/5843">Bankruptcy</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/4347">Would you like for Jim Battle to leave the Orange Papers Forum?</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/5775">Why Such Certainty?</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/4977">Some Perspective Needed</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/2725">And then a miracle occurs.....</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/5146">Pragmatic Principles</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/5285">Professonals </a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/5033">The &quot;find another group&quot; defense.</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/159">Can&#039;t get authorized and log in?</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/5978">God&#039;s Will/What Is/Reality - Going With The Flow</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/5119">Some Questions For You</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/6099">Faith Is A Necessary Component For Living </a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/6003">Coroners&#039; Reports</a></li>
+<li class="last"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/6066">Static Thinking</a></li>
+</ul></div><br/><div class="item-list"><h3>Last viewed:</h3><ul><li class="first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/554">We need more Dr. Bob bashing</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/1196">Has anything in Alcoholics Anonymous changed since the September 19, 1964 Saturday Evening Post article by Dr. Arthur H. Cain? </a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/1872">Washington Post Article Bashes the tactics of AA Oldtimers who bait Younger Members to develop self-fulfilling prophecies. </a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/2477">I like white houses but I think this one should be painted different.  Anybody have any ideas on a color?  I have one.  Oh, and feel free to roam the neighborhood.  Fancy!</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/3865">It&#039;s About Time!</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/611">Earl Hightower, Interventionist Extraordinaire and AA trapper</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/6228">Time to move on</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/5019">&quot;13th Step memes&quot; of 12 Step recovery (AA/NA) - Facebook Founded January 15, 2013</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/3403">Therapy for Former Cult Members</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/2210">This Has Gone Far Enough</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/3860">Help</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/2741">The Dante Inferno of Alcoholics Anonymous (AA) - You can enter if you choose, but you can never leave.....</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/5881">Elizabeth Vargas Leaves Vacation to Enter Rehab for Alcohol Addiction</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/3326"> turn aa upside down for better results?</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/6264">Are steppers &#039;phychopaths?&#039;</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/1752">Is AA&#039;s Step 5</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/6238">What Harm Reduction looks like in Amsterdam. The Washington Post, December, 2, 2014 by Christopher Ingraham</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/6260">Stepper Cult Joke</a></li>
+<li><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/6261">Residents of Capistrano (Capo) Beach, Dana Point, Orange County California have had it with the 20 Sober Homes in their neighborhood and 40 of them showed up at a City Council meeting in Nov. 2014 to voice their concerns. </a></li>
+<li class="last"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/2061">Jeremy Bartles arrested for molesting minor at NASHVILLE, TN AA meeting July 23, 2012 - $20,000 bond</a></li>
+</ul></div><br/>  </div>
+</div>
+<div id="block-user-online" class="block block-user">
+
+    <h2>Who's online</h2>
+  
+  <div class="content">
+    <p>There are currently 0 users online.</p>  </div>
+</div>
+  </div>
+      </div></div> <!-- /.section, /#sidebar-first -->
+    
+    <div id="content" class="column"><div class="section">
+            <a id="main-content"></a>
+                                <div class="tabs">
+                  </div>
+                          <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+
+    
+  <div class="content">
+    <div id="node-7169" class="node node-blog node-promoted node-teaser clearfix" about="/forum/node/7169" typeof="sioc:Post sioct:BlogPost">
+
+        <h2>
+      <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7169">My Story: I Was Accused of Being an Addict</a>
+    </h2>
+    <span property="dc:title" content="My Story: I Was Accused of Being an Addict" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="1" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2016-08-10T13:53:16-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/forum/user/101" typeof="sioc:UserAccount" property="foaf:name" datatype="">avogadno</span> on Wed, 08/10/2016 - 13:53</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Here's an interesting and different point of view:</p>
+<p><a href="http://web.archive.org/web/20160811231155/http://nationalpainreport.com/my-story-i-was-accused-of-being-an-addict-8830056.html">http://nationalpainreport.com/my-story-i-was-accused-of-being-an-addict-...</a></p>
+<p>"Calling me an addict just because I treat my pain with opioids is simply cruel.</p>
+<p>How desperately I wish I were “just an addict”.</p></div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7169" rel="tag" title="My Story: I Was Accused of Being an Addict">Read more<span class="element-invisible"> about My Story: I Was Accused of Being an Addict</span></a></li>
+<li class="blog_usernames_blog"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/blog/101" title="Read avogadno's latest blog entries.">avogadno&#039;s blog</a></li>
+<li class="comment-comments"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7169#comments" title="Jump to the first comment of this posting.">1 comment</a></li>
+<li class="comment_forbidden last"><span><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/login?destination=node/7169%23comment-form">Log in</a> or <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/register?destination=node/7169%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-7168" class="node node-blog node-promoted node-teaser clearfix" about="/forum/node/7168" typeof="sioc:Post sioct:BlogPost">
+
+        <h2>
+      <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7168">&quot;On the basis of reports by addicts, I can say that a ‘fix’ does indeed exceed in quality any known sexual pleasure.&quot;</a>
+    </h2>
+    <span property="dc:title" content="&quot;On the basis of reports by addicts, I can say that a ‘fix’ does indeed exceed in quality any known sexual pleasure.&quot;" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="3" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2016-08-10T01:12:32-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/forum/user/101" typeof="sioc:UserAccount" property="foaf:name" datatype="">avogadno</span> on Wed, 08/10/2016 - 01:12</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>"On the basis of reports by addicts, I can say that a ‘fix’ does indeed exceed in quality any known sexual pleasure."</p>
+<p>“Studies of the reaction addicts have to a single dose of morphine reveal that many experience a feeling of exhilaration akin to an orgasm discharged in the abdominal region."  </p>
+<p>"It is entirely possible that the intensity of this pleasure exceeds any pleasure known to non-addicts."</p></div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7168" rel="tag" title="&quot;On the basis of reports by addicts, I can say that a ‘fix’ does indeed exceed in quality any known sexual pleasure.&quot;">Read more<span class="element-invisible"> about &quot;On the basis of reports by addicts, I can say that a ‘fix’ does indeed exceed in quality any known sexual pleasure.&quot;</span></a></li>
+<li class="blog_usernames_blog"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/blog/101" title="Read avogadno's latest blog entries.">avogadno&#039;s blog</a></li>
+<li class="comment-comments"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7168#comments" title="Jump to the first comment of this posting.">3 comments</a></li>
+<li class="comment_forbidden last"><span><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/login?destination=node/7168%23comment-form">Log in</a> or <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/register?destination=node/7168%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-7167" class="node node-blog node-promoted node-teaser clearfix" about="/forum/node/7167" typeof="sioc:Post sioct:BlogPost">
+
+        <h2>
+      <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7167">How to Fight Cult indoctrination. </a>
+    </h2>
+    <span property="dc:title" content="How to Fight Cult indoctrination. " class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2016-08-09T22:21:43-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/forum/user/7080" typeof="sioc:UserAccount" property="foaf:name" datatype="">RationalS</span> on Tue, 08/09/2016 - 22:21</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><a href="http://web.archive.org/web/20160811231155/https://www.youtube.com/watch?v=qse_wf57tZM">https://www.youtube.com/watch?v=qse_wf57tZM</a></div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7167" rel="tag" title="How to Fight Cult indoctrination. ">Read more<span class="element-invisible"> about How to Fight Cult indoctrination. </span></a></li>
+<li class="blog_usernames_blog"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/blog/7080" title="Read RationalS's latest blog entries.">RationalS&#039;s blog</a></li>
+<li class="comment_forbidden last"><span><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/login?destination=node/7167%23comment-form">Log in</a> or <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/register?destination=node/7167%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-7166" class="node node-blog node-promoted node-teaser clearfix" about="/forum/node/7166" typeof="sioc:Post sioct:BlogPost">
+
+        <h2>
+      <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7166">List of early (i.e. turn of the century) silent film stars who were alcoholics/addicts in movies on the big screen. These are the early movies that might have influenced Bill Wilson and Dr. Silkworth.</a>
+    </h2>
+    <span property="dc:title" content="List of early (i.e. turn of the century) silent film stars who were alcoholics/addicts in movies on the big screen. These are the early movies that might have influenced Bill Wilson and Dr. Silkworth." class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+        <div class="user-picture">
+    <img typeof="foaf:Image" src="http://web.archive.org/web/20160811231155im_/http://www.orange-papers.org/forum/sites/default/files/styles/thumbnail/public/pictures/picture-86-1393542143.jpg?itok=Bx7lmVpS" alt="JR Harris's picture" title="JR Harris's picture"/>  </div>
+      <span property="dc:date dc:created" content="2016-08-07T07:03:39-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/forum/user/86" typeof="sioc:UserAccount" property="foaf:name" datatype="">JR Harris</span> on Sun, 08/07/2016 - 07:03</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Wallace Reid (April 15, 1891 – January 18, 1923) - morphine addiction due to accident<br/><a href="http://web.archive.org/web/20160811231155/https://en.wikipedia.org/wiki/Wallace_Reid#Death">https://en.wikipedia.org/wiki/Wallace_Reid#Death</a></p>
+<p>Barbara La Marr (July 28, 1896 – January 30, 1926) - drug and alcohol use<br/><a href="http://web.archive.org/web/20160811231155/https://en.wikipedia.org/wiki/Barbara_La_Marr#Final_years">https://en.wikipedia.org/wiki/Barbara_La_Marr#Final_years</a></p></div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7166" rel="tag" title="List of early (i.e. turn of the century) silent film stars who were alcoholics/addicts in movies on the big screen. These are the early movies that might have influenced Bill Wilson and Dr. Silkworth.">Read more<span class="element-invisible"> about List of early (i.e. turn of the century) silent film stars who were alcoholics/addicts in movies on the big screen. These are the early movies that might have influenced Bill Wilson and Dr. Silkworth.</span></a></li>
+<li class="blog_usernames_blog"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/blog/86" title="Read JR Harris's latest blog entries.">JR Harris&#039;s blog</a></li>
+<li class="comment_forbidden last"><span><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/login?destination=node/7166%23comment-form">Log in</a> or <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/register?destination=node/7166%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-7164" class="node node-blog node-promoted node-teaser clearfix" about="/forum/node/7164" typeof="sioc:Post sioct:BlogPost">
+
+        <h2>
+      <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7164">Never hate your enemy......</a>
+    </h2>
+    <span property="dc:title" content="Never hate your enemy......" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="10" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+        <div class="user-picture">
+    <img typeof="foaf:Image" src="http://web.archive.org/web/20160811231155im_/http://www.orange-papers.org/forum/sites/default/files/styles/thumbnail/public/pictures/picture-13959-1336463552.jpg?itok=HreMGT7m" alt="NoAAUK's picture" title="NoAAUK's picture"/>  </div>
+      <span property="dc:date dc:created" content="2016-08-06T04:22:21-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/forum/user/13959" typeof="sioc:UserAccount" property="foaf:name" datatype="">NoAAUK</span> on Sat, 08/06/2016 - 04:22</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded">Somebody said 'Never hate your enemy...it affects your judgement.'   I do agree with Orange, constant personal attacks on individuals does not help people to deprogram from 12 cult indoctrination.  But I find it extremely hard not to 'hate my enemy.'  Particularly with this EU thing, but more importantly with regard to the OPF, the stepper cult.  I've had a very nasty experience with the stepper cult and have seen people directly die as a result of this lying scare-mongering, exploitive indoctrination......and all these stepper cult gurus can say is 'prove it.'
+</div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7164" rel="tag" title="Never hate your enemy......">Read more<span class="element-invisible"> about Never hate your enemy......</span></a></li>
+<li class="blog_usernames_blog"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/blog/13959" title="Read NoAAUK's latest blog entries.">NoAAUK&#039;s blog</a></li>
+<li class="comment-comments"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7164#comments" title="Jump to the first comment of this posting.">10 comments</a></li>
+<li class="comment_forbidden last"><span><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/login?destination=node/7164%23comment-form">Log in</a> or <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/register?destination=node/7164%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-7162" class="node node-blog node-promoted node-teaser clearfix" about="/forum/node/7162" typeof="sioc:Post sioct:BlogPost">
+
+        <h2>
+      <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7162">Sex offender arrested for stalking woman he met at an Alcoholics Anonymous Meeting in Berkley, Callifornia AA General Service Area 06 (CNCA) Alameda County</a>
+    </h2>
+    <span property="dc:title" content="Sex offender arrested for stalking woman he met at an Alcoholics Anonymous Meeting in Berkley, Callifornia AA General Service Area 06 (CNCA) Alameda County" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+        <div class="user-picture">
+    <img typeof="foaf:Image" src="http://web.archive.org/web/20160811231155im_/http://www.orange-papers.org/forum/sites/default/files/styles/thumbnail/public/pictures/picture-86-1393542143.jpg?itok=Bx7lmVpS" alt="JR Harris's picture" title="JR Harris's picture"/>  </div>
+      <span property="dc:date dc:created" content="2016-08-05T03:40:38-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/forum/user/86" typeof="sioc:UserAccount" property="foaf:name" datatype="">JR Harris</span> on Fri, 08/05/2016 - 03:40</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><blockquote><p><strong>Sex offender set to enter plea after stalking, threats</strong></p>
+<p>July 28, 2016 1:03 pm by Emilie Raguso</p>
+<p>A convicted sex offender who left “disturbing” notes for a Berkeley woman he met through Alcoholics Anonymous is set to enter a plea Monday after being charged with stalking by the Alameda County district attorney’s office.</p>
+<p>According to court papers, 58-year-old Carl Jones left notes for the woman in early July after they met at AA in June and “developed a friendship to help each other with recovery.”</p></blockquote></div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7162" rel="tag" title="Sex offender arrested for stalking woman he met at an Alcoholics Anonymous Meeting in Berkley, Callifornia AA General Service Area 06 (CNCA) Alameda County">Read more<span class="element-invisible"> about Sex offender arrested for stalking woman he met at an Alcoholics Anonymous Meeting in Berkley, Callifornia AA General Service Area 06 (CNCA) Alameda County</span></a></li>
+<li class="blog_usernames_blog"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/blog/86" title="Read JR Harris's latest blog entries.">JR Harris&#039;s blog</a></li>
+<li class="comment_forbidden last"><span><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/login?destination=node/7162%23comment-form">Log in</a> or <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/register?destination=node/7162%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-7161" class="node node-blog node-promoted node-teaser clearfix" about="/forum/node/7161" typeof="sioc:Post sioct:BlogPost">
+
+        <h2>
+      <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7161">Man robbed of car by knife point giving a ride home from AA meeting Alchoholics Anonymous General Service area 67 Houston, Harris County, Southeast Texas Area (SETA)</a>
+    </h2>
+    <span property="dc:title" content="Man robbed of car by knife point giving a ride home from AA meeting Alchoholics Anonymous General Service area 67 Houston, Harris County, Southeast Texas Area (SETA)" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+        <div class="user-picture">
+    <img typeof="foaf:Image" src="http://web.archive.org/web/20160811231155im_/http://www.orange-papers.org/forum/sites/default/files/styles/thumbnail/public/pictures/picture-86-1393542143.jpg?itok=Bx7lmVpS" alt="JR Harris's picture" title="JR Harris's picture"/>  </div>
+      <span property="dc:date dc:created" content="2016-08-04T14:32:01-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/forum/user/86" typeof="sioc:UserAccount" property="foaf:name" datatype="">JR Harris</span> on Thu, 08/04/2016 - 14:32</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a href="http://web.archive.org/web/20160811231155/http://www.click2houston.com/news/man-robbed-of-car-at-knifepoint-after-aa-meeting">http://www.click2houston.com/news/man-robbed-of-car-at-knifepoint-after-aa...</a></p>
+<p><a href="http://web.archive.org/web/20160811231155/http://aa-seta.org/">http://aa-seta.org/</a><br/><a href="http://web.archive.org/web/20160811231155/http://www.aahouston.org/">http://www.aahouston.org/</a></p>
+</div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7161" rel="tag" title="Man robbed of car by knife point giving a ride home from AA meeting Alchoholics Anonymous General Service area 67 Houston, Harris County, Southeast Texas Area (SETA)">Read more<span class="element-invisible"> about Man robbed of car by knife point giving a ride home from AA meeting Alchoholics Anonymous General Service area 67 Houston, Harris County, Southeast Texas Area (SETA)</span></a></li>
+<li class="blog_usernames_blog"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/blog/86" title="Read JR Harris's latest blog entries.">JR Harris&#039;s blog</a></li>
+<li class="comment_forbidden last"><span><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/login?destination=node/7161%23comment-form">Log in</a> or <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/register?destination=node/7161%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-7160" class="node node-blog node-promoted node-teaser clearfix" about="/forum/node/7160" typeof="sioc:Post sioct:BlogPost">
+
+        <h2>
+      <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7160">Another cult pretending to be a charity</a>
+    </h2>
+    <span property="dc:title" content="Another cult pretending to be a charity" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+        <div class="user-picture">
+    <img typeof="foaf:Image" src="http://web.archive.org/web/20160811231155im_/http://www.orange-papers.org/forum/sites/default/files/styles/thumbnail/public/pictures/picture-2-1392414929.jpg?itok=ZUUA_m8e" alt="Orange's picture" title="Orange's picture"/>  </div>
+      <span property="dc:date dc:created" content="2016-08-03T09:59:46-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/forum/user/2" typeof="sioc:UserAccount" property="foaf:name" datatype="">Orange</span> on Wed, 08/03/2016 - 09:59</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><a href="http://web.archive.org/web/20160811231155/http://www.bbc.com/news/magazine-36940384" target="_blank"><br/>
+http://www.bbc.com/news/magazine-36940384</a></p>
+<p>Notice many of the usual cult characteristics like suppression of dissent, demands for unwavering loyalty, and demands that you are in for your whole life, and the cult is more important than your family.<br/>
+Also unquestionable dogma, and the inner circle and the outer circle, and hidden goals.</p>
+</div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7160" rel="tag" title="Another cult pretending to be a charity">Read more<span class="element-invisible"> about Another cult pretending to be a charity</span></a></li>
+<li class="blog_usernames_blog"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/blog/2" title="Read Orange's latest blog entries.">Orange&#039;s blog</a></li>
+<li class="comment_forbidden last"><span><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/login?destination=node/7160%23comment-form">Log in</a> or <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/register?destination=node/7160%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-7159" class="node node-blog node-promoted node-teaser clearfix" about="/forum/node/7159" typeof="sioc:Post sioct:BlogPost">
+
+        <h2>
+      <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7159">Whatever you do unto the least of my little ones...</a>
+    </h2>
+    <span property="dc:title" content="Whatever you do unto the least of my little ones..." class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="4" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+        <div class="user-picture">
+    <img typeof="foaf:Image" src="http://web.archive.org/web/20160811231155im_/http://www.orange-papers.org/forum/sites/default/files/styles/thumbnail/public/pictures/picture-13959-1336463552.jpg?itok=HreMGT7m" alt="NoAAUK's picture" title="NoAAUK's picture"/>  </div>
+      <span property="dc:date dc:created" content="2016-08-03T05:44:23-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/forum/user/13959" typeof="sioc:UserAccount" property="foaf:name" datatype="">NoAAUK</span> on Wed, 08/03/2016 - 05:44</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded">Jesus Christ is reputed to have said "Whatever you do unto the least of my little ones...you do unto me"  (No doubt many people can quote which line and verse).   Maybe its about time some US Judges and US/UK Alcohol Treatment Therapists start to contemplate those words before they mandate or advise some other victim to become a member the 12 step cult for life</div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7159" rel="tag" title="Whatever you do unto the least of my little ones...">Read more<span class="element-invisible"> about Whatever you do unto the least of my little ones...</span></a></li>
+<li class="blog_usernames_blog"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/blog/13959" title="Read NoAAUK's latest blog entries.">NoAAUK&#039;s blog</a></li>
+<li class="comment-comments"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7159#comments" title="Jump to the first comment of this posting.">4 comments</a></li>
+<li class="comment_forbidden last"><span><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/login?destination=node/7159%23comment-form">Log in</a> or <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/register?destination=node/7159%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-7158" class="node node-poll node-promoted node-teaser clearfix" about="/forum/node/7158" typeof="sioc:Post sioct:Poll">
+
+        <h2>
+      <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7158">Who are the biggest totally self centred, fake socialists on this planet</a>
+    </h2>
+    <span property="dc:title" content="Who are the biggest totally self centred, fake socialists on this planet" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="15" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+        <div class="user-picture">
+    <img typeof="foaf:Image" src="http://web.archive.org/web/20160811231155im_/http://www.orange-papers.org/forum/sites/default/files/styles/thumbnail/public/pictures/picture-13959-1336463552.jpg?itok=HreMGT7m" alt="NoAAUK's picture" title="NoAAUK's picture"/>  </div>
+      <span property="dc:date dc:created" content="2016-08-03T05:08:46-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/forum/user/13959" typeof="sioc:UserAccount" property="foaf:name" datatype="">NoAAUK</span> on Wed, 08/03/2016 - 05:08</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="poll">
+  
+<div class="text">The British Labour Party</div>
+<div class="bar">
+  <div style="width: 50%;" class="foreground"></div>
+</div>
+<div class="percent">
+  50% (1 vote)
+</div>
+
+<div class="text">The US Democrat Party</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">Other PLEASE specify (if you can find a more fake socialist party on this planet)</div>
+<div class="bar">
+  <div style="width: 50%;" class="foreground"></div>
+</div>
+<div class="percent">
+  50% (1 vote)
+</div>
+  <div class="total">
+    Total votes: 2  </div>
+  </div>
+  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7158" rel="tag" title="Who are the biggest totally self centred, fake socialists on this planet">Read more<span class="element-invisible"> about Who are the biggest totally self centred, fake socialists on this planet</span></a></li>
+<li class="comment-comments"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7158#comments" title="Jump to the first comment of this posting.">15 comments</a></li>
+<li class="comment_forbidden last"><span><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/login?destination=node/7158%23comment-form">Log in</a> or <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/register?destination=node/7158%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-7157" class="node node-poll node-promoted node-teaser clearfix" about="/forum/node/7157" typeof="sioc:Post sioct:Poll">
+
+        <h2>
+      <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7157">What is Alcoholics Anonymous (A.A.)?</a>
+    </h2>
+    <span property="dc:title" content="What is Alcoholics Anonymous (A.A.)?" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="3" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+        <div class="user-picture">
+    <img typeof="foaf:Image" src="http://web.archive.org/web/20160811231155im_/http://www.orange-papers.org/forum/sites/default/files/styles/thumbnail/public/pictures/picture-86-1393542143.jpg?itok=Bx7lmVpS" alt="JR Harris's picture" title="JR Harris's picture"/>  </div>
+      <span property="dc:date dc:created" content="2016-07-30T03:48:44-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/forum/user/86" typeof="sioc:UserAccount" property="foaf:name" datatype="">JR Harris</span> on Sat, 07/30/2016 - 03:48</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="poll">
+  
+<div class="text">Alcoholics Anonymous (A.A.) is an ad hoc group of thieves, rapists, murderers that the US judiciary sentence them too. </div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">Alcoholics Anonymous (A.A.) is an impromptu meeting of court mandated criminals. </div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">Alcoholics Anonymous (A.A.) is a provisional holding cell of the US court system. </div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">Alcoholics Anonymous (A.A.) is a special place for thieves, rapists and murderers to congregate.</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">Alcoholics Anonymous (A.A) is a specific place to send thieves, rapists, murderers, etc... too.</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">Alcoholics Anonymous (A.A) is thre specified holding cell of thieves, rapists and murders of the US Court system.</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">Alcoholics Anonymous (A.A) is an impromptu, provisional, special, specific, specified meeting of thieves, rapists, murderers.; </div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">Alcoholics Anonymous (A.A.) is a combination of all of the above.</div>
+<div class="bar">
+  <div style="width: 50%;" class="foreground"></div>
+</div>
+<div class="percent">
+  50% (2 votes)
+</div>
+
+<div class="text">Other - Please explain in the comments what Alcoholics Anonymous is to you.</div>
+<div class="bar">
+  <div style="width: 50%;" class="foreground"></div>
+</div>
+<div class="percent">
+  50% (2 votes)
+</div>
+  <div class="total">
+    Total votes: 4  </div>
+  </div>
+  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7157" rel="tag" title="What is Alcoholics Anonymous (A.A.)?">Read more<span class="element-invisible"> about What is Alcoholics Anonymous (A.A.)?</span></a></li>
+<li class="comment-comments"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7157#comments" title="Jump to the first comment of this posting.">3 comments</a></li>
+<li class="comment_forbidden last"><span><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/login?destination=node/7157%23comment-form">Log in</a> or <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/register?destination=node/7157%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-7156" class="node node-blog node-promoted node-teaser clearfix" about="/forum/node/7156" typeof="sioc:Post sioct:BlogPost">
+
+        <h2>
+      <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7156">Atlantic Monthly: Scientology in Taiwan</a>
+    </h2>
+    <span property="dc:title" content="Atlantic Monthly: Scientology in Taiwan" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="2" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+        <div class="user-picture">
+    <img typeof="foaf:Image" src="http://web.archive.org/web/20160811231155im_/http://www.orange-papers.org/forum/sites/default/files/styles/thumbnail/public/pictures/picture-2-1392414929.jpg?itok=ZUUA_m8e" alt="Orange's picture" title="Orange's picture"/>  </div>
+      <span property="dc:date dc:created" content="2016-07-29T12:28:02-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/forum/user/2" typeof="sioc:UserAccount" property="foaf:name" datatype="">Orange</span> on Fri, 07/29/2016 - 12:28</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>This is a fascinating article about Scientology in Taiwan:<br/><a href="http://web.archive.org/web/20160811231155/http://www.theatlantic.com/international/archive/2016/07/scientology-in-taiwan/493493/" target="_blank"><br/>
+http://www.theatlantic.com/international/archive/2016/07/scientology-in-taiwan/493493/</a></p>
+</div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7156" rel="tag" title="Atlantic Monthly: Scientology in Taiwan">Read more<span class="element-invisible"> about Atlantic Monthly: Scientology in Taiwan</span></a></li>
+<li class="blog_usernames_blog"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/blog/2" title="Read Orange's latest blog entries.">Orange&#039;s blog</a></li>
+<li class="comment-comments"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7156#comments" title="Jump to the first comment of this posting.">2 comments</a></li>
+<li class="comment_forbidden last"><span><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/login?destination=node/7156%23comment-form">Log in</a> or <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/register?destination=node/7156%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-7155" class="node node-poll node-promoted node-teaser clearfix" about="/forum/node/7155" typeof="sioc:Post sioct:Poll">
+
+        <h2>
+      <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7155">Why do the Alcoholics Anonymous (AA) Apologetic always use the same excuses to try to validate the existence of AA and its doctrines? </a>
+    </h2>
+    <span property="dc:title" content="Why do the Alcoholics Anonymous (AA) Apologetic always use the same excuses to try to validate the existence of AA and its doctrines? " class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+        <div class="user-picture">
+    <img typeof="foaf:Image" src="http://web.archive.org/web/20160811231155im_/http://www.orange-papers.org/forum/sites/default/files/styles/thumbnail/public/pictures/picture-86-1393542143.jpg?itok=Bx7lmVpS" alt="JR Harris's picture" title="JR Harris's picture"/>  </div>
+      <span property="dc:date dc:created" content="2016-07-28T09:47:48-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/forum/user/86" typeof="sioc:UserAccount" property="foaf:name" datatype="">JR Harris</span> on Thu, 07/28/2016 - 09:47</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="poll">
+  
+<div class="text">The AA Apologetic were brainwashed that way.</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">The AA headquarters and publishing empire at the Interchurch use marketing to have them answer that way.</div>
+<div class="bar">
+  <div style="width: 33%;" class="foreground"></div>
+</div>
+<div class="percent">
+  33% (1 vote)
+</div>
+
+<div class="text">Bill Wilson is channeling his thoughts to people gullible enough to believe them through his &quot;literature.&quot;</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">People and organizations who make a living off of preaching the &quot;free&quot; 12 Steps teach them what to say.</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">All of the above are why AA apologertic members all have the same feeble excuses.</div>
+<div class="bar">
+  <div style="width: 67%;" class="foreground"></div>
+</div>
+<div class="percent">
+  67% (2 votes)
+</div>
+
+<div class="text">AA members never quote the Big Book, Bill Wilson or the 12 Steps.</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">Other. Please explain in the comment section.</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+  <div class="total">
+    Total votes: 3  </div>
+  </div>
+  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7155" rel="tag" title="Why do the Alcoholics Anonymous (AA) Apologetic always use the same excuses to try to validate the existence of AA and its doctrines? ">Read more<span class="element-invisible"> about Why do the Alcoholics Anonymous (AA) Apologetic always use the same excuses to try to validate the existence of AA and its doctrines? </span></a></li>
+<li class="comment_forbidden last"><span><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/login?destination=node/7155%23comment-form">Log in</a> or <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/register?destination=node/7155%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-7154" class="node node-poll node-promoted node-teaser clearfix" about="/forum/node/7154" typeof="sioc:Post sioct:Poll">
+
+        <h2>
+      <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7154">If as Brett suggests in his latest poll, Janus was to  relapse, back out there &amp; selling her ass down the corner would she </a>
+    </h2>
+    <span property="dc:title" content="If as Brett suggests in his latest poll, Janus was to  relapse, back out there &amp; selling her ass down the corner would she " class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="7" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+        <div class="user-picture">
+    <img typeof="foaf:Image" src="http://web.archive.org/web/20160811231155im_/http://www.orange-papers.org/forum/sites/default/files/styles/thumbnail/public/pictures/picture-13959-1336463552.jpg?itok=HreMGT7m" alt="NoAAUK's picture" title="NoAAUK's picture"/>  </div>
+      <span property="dc:date dc:created" content="2016-07-28T08:11:33-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/forum/user/13959" typeof="sioc:UserAccount" property="foaf:name" datatype="">NoAAUK</span> on Thu, 07/28/2016 - 08:11</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="poll">
+  
+<div class="text">Earn enough to have a &#039;skin full&#039;?</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">Earn two rusty washers and an old UK penny?</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">Earn sweet fa and revert to just begging as no doubt more and more people will in the UK if we dont hurry up a LEAVE the EU?</div>
+<div class="bar">
+  <div style="width: 100%;" class="foreground"></div>
+</div>
+<div class="percent">
+  100% (1 vote)
+</div>
+  <div class="total">
+    Total votes: 1  </div>
+  </div>
+  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7154" rel="tag" title="If as Brett suggests in his latest poll, Janus was to  relapse, back out there &amp; selling her ass down the corner would she ">Read more<span class="element-invisible"> about If as Brett suggests in his latest poll, Janus was to  relapse, back out there &amp; selling her ass down the corner would she </span></a></li>
+<li class="comment-comments"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7154#comments" title="Jump to the first comment of this posting.">7 comments</a></li>
+<li class="comment_forbidden last"><span><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/login?destination=node/7154%23comment-form">Log in</a> or <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/register?destination=node/7154%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-7153" class="node node-blog node-promoted node-teaser clearfix" about="/forum/node/7153" typeof="sioc:Post sioct:BlogPost">
+
+        <h2>
+      <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7153">title = treatment rank or why does janus enable aa financial abuse</a>
+    </h2>
+    <span property="dc:title" content="title = treatment rank or why does janus enable aa financial abuse" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="1" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2016-07-27T23:39:25-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/forum/user/41272" typeof="sioc:UserAccount" property="foaf:name" datatype="">criticoolthinking</span> on Wed, 07/27/2016 - 23:39</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Treatment Modality                Rank      % Excellent<br/>
+           Brief interventions                              1           53<br/>
+           Motivational enhancement                         2           50<br/>
+           GABA agonist (Acamprosate)                       3           20<br/>
+           Community Reinforcement                         4.5          71<br/>
+           Self-change manual (Bibliotherapy)              4.5          53<br/>
+           Opiate antagonist (Naltrexone)                   6            0<br/></p></div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7153" rel="tag" title="title = treatment rank or why does janus enable aa financial abuse">Read more<span class="element-invisible"> about title = treatment rank or why does janus enable aa financial abuse</span></a></li>
+<li class="blog_usernames_blog"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/blog/41272" title="Read criticoolthinking's latest blog entries.">criticoolthinking&#039;s blog</a></li>
+<li class="comment-comments"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7153#comments" title="Jump to the first comment of this posting.">1 comment</a></li>
+<li class="comment_forbidden last"><span><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/login?destination=node/7153%23comment-form">Log in</a> or <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/register?destination=node/7153%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-7151" class="node node-blog node-promoted node-teaser clearfix" about="/forum/node/7151" typeof="sioc:Post sioct:BlogPost">
+
+        <h2>
+      <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7151">Ironic quote of Carl Jung&#039;s </a>
+    </h2>
+    <span property="dc:title" content="Ironic quote of Carl Jung's " class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="5" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2016-07-27T15:31:51-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/forum/user/101" typeof="sioc:UserAccount" property="foaf:name" datatype="">avogadno</span> on Wed, 07/27/2016 - 15:31</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Carl Jung, Memories, Dreams, Reflections</p>
+<p>“Schizophrenia was considered incurable.  If one did achieve some improvement with a case of schizophrenia, the answer was that it had not been REAL schizophrenia&quot; -my emphasis.</p>
+<p>Perhaps Bill read this and decided it was a good argument against alcoholics getting sober outside of AA.  That and &quot;denial&quot; being a symptom of alcoholism are such absurd arguments that I can&#039;t believe they are ever accepted.  Are they?  LOL</p>
+</div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7151" rel="tag" title="Ironic quote of Carl Jung's ">Read more<span class="element-invisible"> about Ironic quote of Carl Jung&#039;s </span></a></li>
+<li class="blog_usernames_blog"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/blog/101" title="Read avogadno's latest blog entries.">avogadno&#039;s blog</a></li>
+<li class="comment-comments"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7151#comments" title="Jump to the first comment of this posting.">5 comments</a></li>
+<li class="comment_forbidden last"><span><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/login?destination=node/7151%23comment-form">Log in</a> or <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/register?destination=node/7151%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-7150" class="node node-poll node-promoted node-teaser clearfix" about="/forum/node/7150" typeof="sioc:Post sioct:Poll">
+
+        <h2>
+      <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7150">janus&#039;s top ten -  aa abuse enabling lies!</a>
+    </h2>
+    <span property="dc:title" content="janus's top ten -  aa abuse enabling lies!" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="1" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2016-07-26T16:09:27-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/forum/user/41272" typeof="sioc:UserAccount" property="foaf:name" datatype="">criticoolthinking</span> on Tue, 07/26/2016 - 16:09</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="poll">
+  
+<div class="text">1. don&#039;t empahsize the abuse in aa literature</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">2. take the abuse you like and leave the rest - for new abuse victims</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">3. aa is not the written abuse in its literature - aa is mental jello</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">4. alter aa&#039;s abusive wording, but still say it is aa</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">5. aa&#039;s abusive wording only affect those who look for abuse</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">6. try to think of aa abuse as friendly advice</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">7. aa abuse words really don&#039;t matter - whats in a word?</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">8. aa abuse has helped millions who choose not to notice aa abuse</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">9. do your own thing and just go someplace else and ignor aa abuse</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">10, make aa abuse great again!</div>
+<div class="bar">
+  <div style="width: 100%;" class="foreground"></div>
+</div>
+<div class="percent">
+  100% (1 vote)
+</div>
+  <div class="total">
+    Total votes: 1  </div>
+  </div>
+  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7150" rel="tag" title="janus's top ten -  aa abuse enabling lies!">Read more<span class="element-invisible"> about janus&#039;s top ten -  aa abuse enabling lies!</span></a></li>
+<li class="comment-comments"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7150#comments" title="Jump to the first comment of this posting.">1 comment</a></li>
+<li class="comment_forbidden last"><span><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/login?destination=node/7150%23comment-form">Log in</a> or <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/register?destination=node/7150%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-7149" class="node node-blog node-promoted node-teaser clearfix" about="/forum/node/7149" typeof="sioc:Post sioct:BlogPost">
+
+        <h2>
+      <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7149">An article by Gabrielle Glaser about Maia Szalavitz&#039;s ideas</a>
+    </h2>
+    <span property="dc:title" content="An article by Gabrielle Glaser about Maia Szalavitz's ideas" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="12" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+        <div class="user-picture">
+    <img typeof="foaf:Image" src="http://web.archive.org/web/20160811231155im_/http://www.orange-papers.org/forum/sites/default/files/styles/thumbnail/public/pictures/picture-2-1392414929.jpg?itok=ZUUA_m8e" alt="Orange's picture" title="Orange's picture"/>  </div>
+      <span property="dc:date dc:created" content="2016-07-26T10:32:11-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/forum/user/2" typeof="sioc:UserAccount" property="foaf:name" datatype="">Orange</span> on Tue, 07/26/2016 - 10:32</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Good stuff.  Gotta love both of them.<br/><a href="http://web.archive.org/web/20160811231155/http://www.thedailybeast.com/articles/2016/04/08/why-addiction-is-a-learning-disorder.html" target="_blank"><br/>
+http://www.thedailybeast.com/articles/2016/04/08/why-addiction-is-a-learning-disorder.html</a></p>
+</div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7149" rel="tag" title="An article by Gabrielle Glaser about Maia Szalavitz's ideas">Read more<span class="element-invisible"> about An article by Gabrielle Glaser about Maia Szalavitz&#039;s ideas</span></a></li>
+<li class="blog_usernames_blog"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/blog/2" title="Read Orange's latest blog entries.">Orange&#039;s blog</a></li>
+<li class="comment-comments"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7149#comments" title="Jump to the first comment of this posting.">12 comments</a></li>
+<li class="comment_forbidden last"><span><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/login?destination=node/7149%23comment-form">Log in</a> or <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/register?destination=node/7149%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-7148" class="node node-blog node-promoted node-teaser clearfix" about="/forum/node/7148" typeof="sioc:Post sioct:BlogPost">
+
+        <h2>
+      <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7148">Ibogaine elimintes heroin withdrawal, but not the desire to get high again.</a>
+    </h2>
+    <span property="dc:title" content="Ibogaine elimintes heroin withdrawal, but not the desire to get high again." class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="2" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+        <div class="user-picture">
+    <img typeof="foaf:Image" src="http://web.archive.org/web/20160811231155im_/http://www.orange-papers.org/forum/sites/default/files/styles/thumbnail/public/pictures/picture-2-1392414929.jpg?itok=ZUUA_m8e" alt="Orange's picture" title="Orange's picture"/>  </div>
+      <span property="dc:date dc:created" content="2016-07-26T10:04:42-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/forum/user/2" typeof="sioc:UserAccount" property="foaf:name" datatype="">Orange</span> on Tue, 07/26/2016 - 10:04</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>A very interesting article from Atlantic Monthly.  Unfortunately, Ibogaine is not a panacea.<br/><a href="http://web.archive.org/web/20160811231155/http://www.theatlantic.com/health/archive/2016/07/a-psychedelic-can-cure-heroin-withdrawal/492872/" target="_blank"><br/>
+http://www.theatlantic.com/health/archive/2016/07/a-psychedelic-can-cure-heroin-withdrawal/492872/</a></p>
+</div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7148" rel="tag" title="Ibogaine elimintes heroin withdrawal, but not the desire to get high again.">Read more<span class="element-invisible"> about Ibogaine elimintes heroin withdrawal, but not the desire to get high again.</span></a></li>
+<li class="blog_usernames_blog"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/blog/2" title="Read Orange's latest blog entries.">Orange&#039;s blog</a></li>
+<li class="comment-comments"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7148#comments" title="Jump to the first comment of this posting.">2 comments</a></li>
+<li class="comment_forbidden last"><span><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/login?destination=node/7148%23comment-form">Log in</a> or <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/register?destination=node/7148%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-7147" class="node node-blog node-promoted node-teaser clearfix" about="/forum/node/7147" typeof="sioc:Post sioct:BlogPost">
+
+        <h2>
+      <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7147">Read this for the comments section</a>
+    </h2>
+    <span property="dc:title" content="Read this for the comments section" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="34" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2016-07-25T04:39:27-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/forum/user/103225" typeof="sioc:UserAccount" property="foaf:name" datatype="">Janus</span> on Mon, 07/25/2016 - 04:39</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>This article isn't in itself saying anything new on the topic of addiction being a disease, however, the comments section underneath the article is fascinating. It contains the most varied collection of opinions on addiction I have ever come across. It pretty much covers the whole spectrum of opinions on whether or not addiction is a disease and whether or not the 12 Step Program is helpful/dangerous etc. and everything in between. </p></div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7147" rel="tag" title="Read this for the comments section">Read more<span class="element-invisible"> about Read this for the comments section</span></a></li>
+<li class="blog_usernames_blog"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/blog/103225" title="Read Janus's latest blog entries.">Janus&#039;s blog</a></li>
+<li class="comment-comments"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7147#comments" title="Jump to the first comment of this posting.">34 comments</a></li>
+<li class="comment_forbidden last"><span><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/login?destination=node/7147%23comment-form">Log in</a> or <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/register?destination=node/7147%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-7144" class="node node-blog node-promoted node-teaser clearfix" about="/forum/node/7144" typeof="sioc:Post sioct:BlogPost">
+
+        <h2>
+      <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7144">Stepper Cult Tip</a>
+    </h2>
+    <span property="dc:title" content="Stepper Cult Tip" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="4" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+        <div class="user-picture">
+    <img typeof="foaf:Image" src="http://web.archive.org/web/20160811231155im_/http://www.orange-papers.org/forum/sites/default/files/styles/thumbnail/public/pictures/picture-13959-1336463552.jpg?itok=HreMGT7m" alt="NoAAUK's picture" title="NoAAUK's picture"/>  </div>
+      <span property="dc:date dc:created" content="2016-07-22T07:28:07-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/forum/user/13959" typeof="sioc:UserAccount" property="foaf:name" datatype="">NoAAUK</span> on Fri, 07/22/2016 - 07:28</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded">Don't ask a doorknob to give you spiritual advice   when you've dropped an Acid tab.......it might just do that</div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7144" rel="tag" title="Stepper Cult Tip">Read more<span class="element-invisible"> about Stepper Cult Tip</span></a></li>
+<li class="blog_usernames_blog"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/blog/13959" title="Read NoAAUK's latest blog entries.">NoAAUK&#039;s blog</a></li>
+<li class="comment-comments"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7144#comments" title="Jump to the first comment of this posting.">4 comments</a></li>
+<li class="comment_forbidden last"><span><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/login?destination=node/7144%23comment-form">Log in</a> or <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/register?destination=node/7144%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-7143" class="node node-blog node-promoted node-teaser clearfix" about="/forum/node/7143" typeof="sioc:Post sioct:BlogPost">
+
+        <h2>
+      <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7143">(Sick) Stepper Cult Joke</a>
+    </h2>
+    <span property="dc:title" content="(Sick) Stepper Cult Joke" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+        <div class="user-picture">
+    <img typeof="foaf:Image" src="http://web.archive.org/web/20160811231155im_/http://www.orange-papers.org/forum/sites/default/files/styles/thumbnail/public/pictures/picture-13959-1336463552.jpg?itok=HreMGT7m" alt="NoAAUK's picture" title="NoAAUK's picture"/>  </div>
+      <span property="dc:date dc:created" content="2016-07-22T07:23:50-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/forum/user/13959" typeof="sioc:UserAccount" property="foaf:name" datatype="">NoAAUK</span> on Fri, 07/22/2016 - 07:23</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded">When is a lying, scare-mongering, control freak and sexual predator.....NOT a lying scare-mongering, control freak and sexual predator?    When they are a 12 step spiritual guru and 12 step life coach</div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7143" rel="tag" title="(Sick) Stepper Cult Joke">Read more<span class="element-invisible"> about (Sick) Stepper Cult Joke</span></a></li>
+<li class="blog_usernames_blog"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/blog/13959" title="Read NoAAUK's latest blog entries.">NoAAUK&#039;s blog</a></li>
+<li class="comment_forbidden last"><span><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/login?destination=node/7143%23comment-form">Log in</a> or <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/register?destination=node/7143%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-7142" class="node node-poll node-promoted node-teaser clearfix" about="/forum/node/7142" typeof="sioc:Post sioct:Poll">
+
+        <h2>
+      <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7142">What&#039;s happened to Janus the nonsense thats stopped her inccessant 12 step sell?</a>
+    </h2>
+    <span property="dc:title" content="What's happened to Janus the nonsense thats stopped her inccessant 12 step sell?" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="8" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2016-07-21T20:43:21-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/forum/user/5216" typeof="sioc:UserAccount" property="foaf:name" datatype="">Brett</span> on Thu, 07/21/2016 - 20:43</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="poll">
+  
+<div class="text">She&#039;s finally realized how inappropriate her presence is &amp; joined a pro AA forum</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">She&#039;s deeped her spiritual connection with her made up higher power &amp; has floated off to a whole new time continual</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">She&#039;s relapsed, back out there &amp; selling her ass down the corner</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">The mental health authority locked her up in the nut house</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">She&#039;s gone into such a fury typing rebuffs to anti 12 steps her fingers are worn down stumps &amp; can&#039;t work keyboards no more</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">She&#039;s finally found a boyfriend &amp; has the poor bugger locked in her room, he hasn&#039;t seen the light of day for 3 weeks now</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">After plagueing us for years (seems like it) she&#039;s realized the sense in what we say &amp; is undergoing deprogramming fromAA treatm</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+  <div class="total">
+    Total votes: 0  </div>
+  </div>
+  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7142" rel="tag" title="What's happened to Janus the nonsense thats stopped her inccessant 12 step sell?">Read more<span class="element-invisible"> about What&#039;s happened to Janus the nonsense thats stopped her inccessant 12 step sell?</span></a></li>
+<li class="comment-comments"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7142#comments" title="Jump to the first comment of this posting.">8 comments</a></li>
+<li class="comment_forbidden last"><span><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/login?destination=node/7142%23comment-form">Log in</a> or <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/register?destination=node/7142%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-7141" class="node node-blog node-promoted node-teaser clearfix" about="/forum/node/7141" typeof="sioc:Post sioct:BlogPost">
+
+        <h2>
+      <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7141">&quot;DUTY TO WARN&quot; potential victims of mentally unstable people in the various States of the US by mental health professionals. Does a mental health professional have a duty to warn AA groups when they send someone dangerous to them?</a>
+    </h2>
+    <span property="dc:title" content="&quot;DUTY TO WARN&quot; potential victims of mentally unstable people in the various States of the US by mental health professionals. Does a mental health professional have a duty to warn AA groups when they send someone dangerous to them?" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="4" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+        <div class="user-picture">
+    <img typeof="foaf:Image" src="http://web.archive.org/web/20160811231155im_/http://www.orange-papers.org/forum/sites/default/files/styles/thumbnail/public/pictures/picture-86-1393542143.jpg?itok=Bx7lmVpS" alt="JR Harris's picture" title="JR Harris's picture"/>  </div>
+      <span property="dc:date dc:created" content="2016-07-21T18:55:09-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/forum/user/86" typeof="sioc:UserAccount" property="foaf:name" datatype="">JR Harris</span> on Thu, 07/21/2016 - 18:55</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><img src="http://web.archive.org/web/20160811231155im_/http://www.ncsl.org/portals/1/ImageLibrary/WebImages/Health/DTPMap12.gif"/></p></div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7141" rel="tag" title="&quot;DUTY TO WARN&quot; potential victims of mentally unstable people in the various States of the US by mental health professionals. Does a mental health professional have a duty to warn AA groups when they send someone dangerous to them?">Read more<span class="element-invisible"> about &quot;DUTY TO WARN&quot; potential victims of mentally unstable people in the various States of the US by mental health professionals. Does a mental health professional have a duty to warn AA groups when they send someone dangerous to them?</span></a></li>
+<li class="blog_usernames_blog"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/blog/86" title="Read JR Harris's latest blog entries.">JR Harris&#039;s blog</a></li>
+<li class="comment-comments"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7141#comments" title="Jump to the first comment of this posting.">4 comments</a></li>
+<li class="comment_forbidden last"><span><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/login?destination=node/7141%23comment-form">Log in</a> or <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/register?destination=node/7141%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-7140" class="node node-blog node-promoted node-teaser clearfix" about="/forum/node/7140" typeof="sioc:Post sioct:BlogPost">
+
+        <h2>
+      <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7140">Off Topic - The good in people, Inmates in Parker County Jail, Texas break out of cell to save Officer having a heart attack. AA General Service Area 66 Sanctity of Life.</a>
+    </h2>
+    <span property="dc:title" content="Off Topic - The good in people, Inmates in Parker County Jail, Texas break out of cell to save Officer having a heart attack. AA General Service Area 66 Sanctity of Life." class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="1" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+        <div class="user-picture">
+    <img typeof="foaf:Image" src="http://web.archive.org/web/20160811231155im_/http://www.orange-papers.org/forum/sites/default/files/styles/thumbnail/public/pictures/picture-86-1393542143.jpg?itok=Bx7lmVpS" alt="JR Harris's picture" title="JR Harris's picture"/>  </div>
+      <span property="dc:date dc:created" content="2016-07-12T05:45:13-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/forum/user/86" typeof="sioc:UserAccount" property="foaf:name" datatype="">JR Harris</span> on Tue, 07/12/2016 - 05:45</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><iframe width="560" height="315" src="http://web.archive.org/web/20160811231155if_/https://www.youtube.com/embed/Yct0Acxrlqc" frameborder="0" allowfullscreen=""></iframe><blockquote> (CNN)A group of Texas inmates are being hailed as heroes after they bust out of a holding cell -- to save a corrections officer's life.<br/>
+The Parker County Sheriff's Office just released security camera footage of the June 23 incident.<br/></blockquote></div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7140" rel="tag" title="Off Topic - The good in people, Inmates in Parker County Jail, Texas break out of cell to save Officer having a heart attack. AA General Service Area 66 Sanctity of Life.">Read more<span class="element-invisible"> about Off Topic - The good in people, Inmates in Parker County Jail, Texas break out of cell to save Officer having a heart attack. AA General Service Area 66 Sanctity of Life.</span></a></li>
+<li class="blog_usernames_blog"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/blog/86" title="Read JR Harris's latest blog entries.">JR Harris&#039;s blog</a></li>
+<li class="comment-comments"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7140#comments" title="Jump to the first comment of this posting.">1 comment</a></li>
+<li class="comment_forbidden last"><span><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/login?destination=node/7140%23comment-form">Log in</a> or <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/register?destination=node/7140%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-7138" class="node node-blog node-promoted node-teaser clearfix" about="/forum/node/7138" typeof="sioc:Post sioct:BlogPost">
+
+        <h2>
+      <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7138">List of reputable Doctors who claim Addiction is not a Disease</a>
+    </h2>
+    <span property="dc:title" content="List of reputable Doctors who claim Addiction is not a Disease" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="81" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+        <div class="user-picture">
+    <img typeof="foaf:Image" src="http://web.archive.org/web/20160811231155im_/http://www.orange-papers.org/forum/sites/default/files/styles/thumbnail/public/pictures/picture-86-1393542143.jpg?itok=Bx7lmVpS" alt="JR Harris's picture" title="JR Harris's picture"/>  </div>
+      <span property="dc:date dc:created" content="2016-07-11T22:00:29-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/forum/user/86" typeof="sioc:UserAccount" property="foaf:name" datatype="">JR Harris</span> on Mon, 07/11/2016 - 22:00</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Dr. Stanton Peeles says addiction is not a disease.<br/>
+Dr. Mark Willengbring says addiction is a disease<br/>
+Dr. Lance Dodes says addiction is not a brain disease nor a DSM diagnosis<br/>
+Dr. Gabor Mate says addiction is a disease<br/>
+Dr. Marc Lewis says addiction is not a disease<br/>
+Dr. John Kelly says addiction is a disease<br/>
+Dr. Carl Hart says addiction is not a brain disease<br/>
+Dr. Marvin Seppella says addiction is a disease<br/>
+Dr. Gene Heyman says addiction is not a disease<br/>
+Dr. Lee Ann Kaskutas says addiction is a disease<br/></p></div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7138" rel="tag" title="List of reputable Doctors who claim Addiction is not a Disease">Read more<span class="element-invisible"> about List of reputable Doctors who claim Addiction is not a Disease</span></a></li>
+<li class="blog_usernames_blog"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/blog/86" title="Read JR Harris's latest blog entries.">JR Harris&#039;s blog</a></li>
+<li class="comment-comments"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7138#comments" title="Jump to the first comment of this posting.">81 comments</a></li>
+<li class="comment_forbidden last"><span><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/login?destination=node/7138%23comment-form">Log in</a> or <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/register?destination=node/7138%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-7137" class="node node-blog node-promoted node-teaser clearfix" about="/forum/node/7137" typeof="sioc:Post sioct:BlogPost">
+
+        <h2>
+      <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7137">B.I.T.E cult awareness. </a>
+    </h2>
+    <span property="dc:title" content="B.I.T.E cult awareness. " class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="3" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+            <span property="dc:date dc:created" content="2016-07-07T21:22:41-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/forum/user/7080" typeof="sioc:UserAccount" property="foaf:name" datatype="">RationalS</span> on Thu, 07/07/2016 - 21:22</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded">If you attend alot of AA meetings, watch the posted video and aswer all the questions honestly. 
+
+  
+<a href="http://web.archive.org/web/20160811231155/https://www.youtube.com/watch?v=R6yCvBesfXU">https://www.youtube.com/watch?v=R6yCvBesfXU</a></div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7137" rel="tag" title="B.I.T.E cult awareness. ">Read more<span class="element-invisible"> about B.I.T.E cult awareness. </span></a></li>
+<li class="blog_usernames_blog"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/blog/7080" title="Read RationalS's latest blog entries.">RationalS&#039;s blog</a></li>
+<li class="comment-comments"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7137#comments" title="Jump to the first comment of this posting.">3 comments</a></li>
+<li class="comment_forbidden last"><span><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/login?destination=node/7137%23comment-form">Log in</a> or <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/register?destination=node/7137%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-7136" class="node node-blog node-promoted node-teaser clearfix" about="/forum/node/7136" typeof="sioc:Post sioct:BlogPost">
+
+        <h2>
+      <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7136">Caroline Aherne   RIP</a>
+    </h2>
+    <span property="dc:title" content="Caroline Aherne   RIP" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="2" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+        <div class="user-picture">
+    <img typeof="foaf:Image" src="http://web.archive.org/web/20160811231155im_/http://www.orange-papers.org/forum/sites/default/files/styles/thumbnail/public/pictures/picture-13959-1336463552.jpg?itok=HreMGT7m" alt="NoAAUK's picture" title="NoAAUK's picture"/>  </div>
+      <span property="dc:date dc:created" content="2016-07-04T03:10:13-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/forum/user/13959" typeof="sioc:UserAccount" property="foaf:name" datatype="">NoAAUK</span> on Mon, 07/04/2016 - 03:10</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded">It is with great sadness that I heard of the death of Caroline Aherne from Cancer at the age of 52 as the main story on the News at the weekend.  She was a truly great comedian and always managed to have me laughing fit to burst, whether as Mrs Metron or in the Royle Family on TV.  Heaven will be far funnier with her in it.  Thank you Caroline for hours of laughter, even in my depths of alcoholism and drug addiction .......you always managed to make me laugh and I like to laugh.....thanks</div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7136" rel="tag" title="Caroline Aherne   RIP">Read more<span class="element-invisible"> about Caroline Aherne   RIP</span></a></li>
+<li class="blog_usernames_blog"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/blog/13959" title="Read NoAAUK's latest blog entries.">NoAAUK&#039;s blog</a></li>
+<li class="comment-comments"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7136#comments" title="Jump to the first comment of this posting.">2 comments</a></li>
+<li class="comment_forbidden last"><span><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/login?destination=node/7136%23comment-form">Log in</a> or <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/register?destination=node/7136%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-7134" class="node node-poll node-promoted node-teaser clearfix" about="/forum/node/7134" typeof="sioc:Post sioct:Poll">
+
+        <h2>
+      <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7134">What is 12th Step Work in Alcoholics Anonymous?</a>
+    </h2>
+    <span property="dc:title" content="What is 12th Step Work in Alcoholics Anonymous?" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="0" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+        <div class="user-picture">
+    <img typeof="foaf:Image" src="http://web.archive.org/web/20160811231155im_/http://www.orange-papers.org/forum/sites/default/files/styles/thumbnail/public/pictures/picture-86-1393542143.jpg?itok=Bx7lmVpS" alt="JR Harris's picture" title="JR Harris's picture"/>  </div>
+      <span property="dc:date dc:created" content="2016-07-03T12:00:32-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/forum/user/86" typeof="sioc:UserAccount" property="foaf:name" datatype="">JR Harris</span> on Sun, 07/03/2016 - 12:00</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="poll">
+  
+<div class="text">Carrying the AA Message to others is 12th Step Work.</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">Distrtibuting and Selling AA literature is 12th Step Work.</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">Managing an AA meeting place is 12th Step Work.</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">Managing an AA Central Cffice is 12th Step Work.</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">Managing a 12 Step Clubhouse is 12th Step Work.</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">Producing, Promotiing and Distrubuting AA literature is 12th Step Work.</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">Managing AA Roundups and AA Conferences is 12th Step Work.</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">Cleaning the AA Coffee Pot and cleaning up the AA meeting room is 12th Step Work.</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">Going to Prisons, Jails, Courts and Schools to search for AA prospects is 12th Step Work.</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">All of the above are considered 12th Step Work.</div>
+<div class="bar">
+  <div style="width: 100%;" class="foreground"></div>
+</div>
+<div class="percent">
+  100% (2 votes)
+</div>
+
+<div class="text">Only some of the above are considered 12th Step Work.</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+
+<div class="text">None of the above are considered 12th Step Work.</div>
+<div class="bar">
+  <div style="width: 0%;" class="foreground"></div>
+</div>
+<div class="percent">
+  0% (0 votes)
+</div>
+  <div class="total">
+    Total votes: 2  </div>
+  </div>
+  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7134" rel="tag" title="What is 12th Step Work in Alcoholics Anonymous?">Read more<span class="element-invisible"> about What is 12th Step Work in Alcoholics Anonymous?</span></a></li>
+<li class="comment_forbidden last"><span><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/login?destination=node/7134%23comment-form">Log in</a> or <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/register?destination=node/7134%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<div id="node-7133" class="node node-blog node-promoted node-teaser clearfix" about="/forum/node/7133" typeof="sioc:Post sioct:BlogPost">
+
+        <h2>
+      <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7133">AA Tradition 8 as first presented by Bill Wilson in the A.A. Grapevine, April 1946. Why was Tradition 8 written and what does it have to do with AA 12 Steps? Were Bill W and Dr. Bob compensated for 12th Step Work?</a>
+    </h2>
+    <span property="dc:title" content="AA Tradition 8 as first presented by Bill Wilson in the A.A. Grapevine, April 1946. Why was Tradition 8 written and what does it have to do with AA 12 Steps? Were Bill W and Dr. Bob compensated for 12th Step Work?" class="rdf-meta element-hidden"></span><span property="sioc:num_replies" content="1" datatype="xsd:integer" class="rdf-meta element-hidden"></span>
+      <div class="meta submitted">
+        <div class="user-picture">
+    <img typeof="foaf:Image" src="http://web.archive.org/web/20160811231155im_/http://www.orange-papers.org/forum/sites/default/files/styles/thumbnail/public/pictures/picture-86-1393542143.jpg?itok=Bx7lmVpS" alt="JR Harris's picture" title="JR Harris's picture"/>  </div>
+      <span property="dc:date dc:created" content="2016-07-03T08:48:47-07:00" datatype="xsd:dateTime" rel="sioc:has_creator">Submitted by <span class="username" xml:lang="" about="/forum/user/86" typeof="sioc:UserAccount" property="foaf:name" datatype="">JR Harris</span> on Sun, 07/03/2016 - 08:48</span>    </div>
+  
+  <div class="content clearfix">
+    <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><blockquote><p>8. Alcoholics Anonymous should remain forever non-professional. We define professionalism as the occupation of counseling alcoholics for fee or hire. But we may employ alcoholics where they are going to perform those full-time services for which we might otherwise have to engage nonalcoholics. Such special services may be well recompensed. But personal Twelfth Step work is never to be paid for. </p></blockquote>
+<p>Source: <a href="http://web.archive.org/web/20160811231155/http://www.barefootsworld.net/aatraditions-gv1946.html">http://www.barefootsworld.net/aatraditions-gv1946.html</a></p></div></div></div>  </div>
+
+      <div class="link-wrapper">
+      <ul class="links inline"><li class="node-readmore first"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7133" rel="tag" title="AA Tradition 8 as first presented by Bill Wilson in the A.A. Grapevine, April 1946. Why was Tradition 8 written and what does it have to do with AA 12 Steps? Were Bill W and Dr. Bob compensated for 12th Step Work?">Read more<span class="element-invisible"> about AA Tradition 8 as first presented by Bill Wilson in the A.A. Grapevine, April 1946. Why was Tradition 8 written and what does it have to do with AA 12 Steps? Were Bill W and Dr. Bob compensated for 12th Step Work?</span></a></li>
+<li class="blog_usernames_blog"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/blog/86" title="Read JR Harris's latest blog entries.">JR Harris&#039;s blog</a></li>
+<li class="comment-comments"><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/node/7133#comments" title="Jump to the first comment of this posting.">1 comment</a></li>
+<li class="comment_forbidden last"><span><a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/login?destination=node/7133%23comment-form">Log in</a> or <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/user/register?destination=node/7133%23comment-form">register</a> to post comments</span></li>
+</ul>    </div>
+  
+  
+</div>
+<h2 class="element-invisible">Pages</h2><div class="item-list"><ul class="pager"><li class="pager-current first">1</li>
+<li class="pager-item"><a title="Go to page 2" href="/web/20160811231155/http://www.orange-papers.org:80/forum/node?page=1">2</a></li>
+<li class="pager-item"><a title="Go to page 3" href="/web/20160811231155/http://www.orange-papers.org:80/forum/node?page=2">3</a></li>
+<li class="pager-item"><a title="Go to page 4" href="/web/20160811231155/http://www.orange-papers.org:80/forum/node?page=3">4</a></li>
+<li class="pager-item"><a title="Go to page 5" href="/web/20160811231155/http://www.orange-papers.org:80/forum/node?page=4">5</a></li>
+<li class="pager-item"><a title="Go to page 6" href="/web/20160811231155/http://www.orange-papers.org:80/forum/node?page=5">6</a></li>
+<li class="pager-item"><a title="Go to page 7" href="/web/20160811231155/http://www.orange-papers.org:80/forum/node?page=6">7</a></li>
+<li class="pager-item"><a title="Go to page 8" href="/web/20160811231155/http://www.orange-papers.org:80/forum/node?page=7">8</a></li>
+<li class="pager-item"><a title="Go to page 9" href="/web/20160811231155/http://www.orange-papers.org:80/forum/node?page=8">9</a></li>
+<li class="pager-ellipsis">…</li>
+<li class="pager-next"><a title="Go to next page" href="/web/20160811231155/http://www.orange-papers.org:80/forum/node?page=1">next ›</a></li>
+<li class="pager-last last"><a title="Go to last page" href="/web/20160811231155/http://www.orange-papers.org:80/forum/node?page=152">last »</a></li>
+</ul></div>  </div>
+</div>
+  </div>
+      <a href="/web/20160811231155/http://www.orange-papers.org:80/forum/rss.xml" class="feed-icon" title="Subscribe to www.orange-papers.org RSS"><img typeof="foaf:Image" src="http://web.archive.org/web/20160811231155im_/http://www.orange-papers.org/forum/misc/feed.png" width="16" height="16" alt="Subscribe to www.orange-papers.org RSS"/></a>
+    </div></div> <!-- /.section, /#content -->
+
+    
+  </div></div> <!-- /#main, /#main-wrapper -->
+
+  
+  <div id="footer-wrapper"><div class="section">
+
+    
+          <div id="footer" class="clearfix">
+          <div class="region region-footer">
+    <div id="block-system-powered-by" class="block block-system">
+
+    
+  <div class="content">
+    <span>Powered by <a href="http://web.archive.org/web/20160811231155/https://www.drupal.org/">Drupal</a></span>  </div>
+</div>
+  </div>
+      </div> <!-- /#footer -->
+    
+  </div></div> <!-- /.section, /#footer-wrapper -->
+
+</div></div> <!-- /#page, /#page-wrapper -->
+  </body>
+</html>
